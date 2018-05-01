@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_materiales, Core" table="CCT_MATERIALES" lazy="false">
+    <id name="ID" column="ID_MAT" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="DESCRIPCION" column="DESCRIPCION" />
+    <property name="ACTIVO" column="ACTIVO" />
+
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Aprobacion_Contabilidad, Core" table="VI_APROBACION_CONTABILIDAD" lazy="false" >
+		<id name="ID" column="APROBACION" type="Int32" unsaved-value="0" >
+			<generator class="identity"/>
+		</id>
+		<property name="CONTABILIDAD" column="CONTABILIDAD" />
+		<property name="FECHA_APROB_ASS" column="FECHA" />
+		<property name="FECHA_APROB_DIRECTOR" column="FECHA_APROB_DIRECTOR" />
+		<property name="FECHA_APROB_ADMON" column="FECHA_APROB_ADMON" />
+
+	</class>
+	
+	<sql-query name="MANT_ACTUALIZA_FECHA_APROBACION_CONTABILIDAD">
+		<return class="Core.Domain.Gastos.Aprobacion_Contabilidad, Core">
+			<return-property name="CONTABILIDAD" column="CONTABILIDAD" />
+			<return-property name="FECHA_APROB_ASS" column="FECHA" />
+			<return-property name="FECHA_APROB_DIRECTOR" column="FECHA_APROB_DIRECTOR" />
+			<return-property name="FECHA_APROB_ADMON" column="FECHA_APROB_ADMON" />
+		</return>
+		exec [MANT_ACTUALIZA_FECHA_APROBACION_CONTABILIDAD] :CONTABILIDAD, :NIVEL_APROB, :BORRAR
+	</sql-query>
+</hibernate-mapping>

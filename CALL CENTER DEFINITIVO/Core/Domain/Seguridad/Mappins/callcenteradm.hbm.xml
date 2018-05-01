@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <!--class name="Core.Domain.Seguridad.callcenteradm, Core" table="callcenteradm2" lazy="false"-->
+  <class name="Core.Domain.Seguridad.callcenteradm, Core" table="callcenteradm2" lazy="false">
+    <id name="ID" column="id_call" unsaved-value="0">
+      <generator class="identity"/>
+      <!--generator class="assigned"/-->
+    </id>
+    <property name="codage" column="codage" />
+    <property name="feccall" column="feccall" />
+    <property name="horini" column="horini" />
+    <property name="horfin" column="horfin" />
+    <property name="tipcall" column="tipcall" />
+    <property name="percon" column="percon" />
+    <property name="codusu" column="codusu" />
+    <property name="comentario" column="comentario" />
+    <property name="movcall" column="movcall" />
+    <property name="rescall" column="rescall" />
+    <property name="codges" column="codges" />
+    <property name="horrec" column="horrec" />
+    <property name="fecrec" column="fecrec" />
+    <property name="llamar" column="llamar" />
+    <property name="ticket" column="ticket" />
+    <property name="tipo" column="tipo" />
+    <property name="cerrado" column="cerrado" />
+    <property name="gescie" column="gescie" />
+    <property name="comcie" column="comcie" />
+    <property name="feccie" column="feccie" />
+    <property name="probsys" column="probsys" />
+   
+
+  </class>
+
+</hibernate-mapping>
+

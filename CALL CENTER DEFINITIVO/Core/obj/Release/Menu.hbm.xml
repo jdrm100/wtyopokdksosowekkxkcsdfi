@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Menu.Menu, Core" table="NET_MENU_TABLA" lazy="false">
+		<id name="ID" column="ID_FUNCION_HIJO" unsaved-value="0">
+			<generator class="assigned"/>
+		</id>
+		<property name="HIJO" column="HIJO" />
+		<property name="ID_FUNCION_PADRE" column="ID_FUNCION_PADRE" />
+		<property name="PADRE" column="PADRE" />
+		<property name="ORDEN" column="ORDEN" />
+		<property name="SW_PPAL" column="SW_PPAL" />
+		<property name="URL" column="URL" />
+		<property name="SW_RESTRINCION" column="SW_RESTRINCION" />
+		
+	</class>
+</hibernate-mapping>

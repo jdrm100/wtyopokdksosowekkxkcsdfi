@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_notas, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_NOTA" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="AGENTE" column="AGENTE" />
+    <property name="FECHA" column="FECHA" />
+    <property name="HORA" column="HORA" />
+    <property name="USUARIO" column="USUARIO" />
+    <property name="NOTA" column="NOTA" />
+    <property name="AGENDA" column="AGENDA" />
+    <loader query-ref="SELECT_CCT_NOTAS"/>
+    
+  </class>
+  <sql-query name="SELECT_CCT_NOTAS">
+    <return class="Core.Domain.Seguridad.cct_notas, Core">
+      <return-property name="ID" column="ID_NOTA"/>
+      <return-property name="AGENTE" column="AGENTE"/>
+      <return-property name="FECHA" column="FECHA"/>
+      <return-property name="HORA" column="HORA"/>
+      <return-property name="USUARIO" column="USUARIO"/>
+      <return-property name="NOTA" column="NOTA"/>
+      <return-property name="AGENDA" column="AGENDA"/>
+    </return>
+    exec [SELECT_CCT_NOTAS] :_AGE, :_FEC, :_USU, :_NOTA, :_FEC_AGE 
+  </sql-query>
+</hibernate-mapping>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.empl, Core" table="EMPLEDOS_ADM" lazy="false">
+    <id name="ID" column="ID" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="NOMBRE" column="NOMBRE" />
+    <property name="FLOTA" column="FLOTA" />
+    <property name="CORREO" column="CORREO" />
+    <property name="RUTA" column="RUTA" />
+    <property name="ACTIVO" column="ACTIVO" />
+
+  </class>
+
+</hibernate-mapping>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Agencia, Core" table="SELT_RECHAZO_CAND_AGENCIA" lazy="false" >
+		<id name="ID" column="ID_RECHAZO_CAND_AGENCIA" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="ID_AGENCIA" column="ID_AGENCIA" />
+		<property name="ID_CANDIDATO" column="ID_CANDIDATO" />
+		<property name="FECHA_REGISTRO" column="FECHA_REGISTRO" />
+		<property name="ID_USUARIO" column="ID_USUARIO" />
+	</class>
+</hibernate-mapping>

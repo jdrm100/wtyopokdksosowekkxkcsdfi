@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Agencias, Core" lazy="false" mutable="false">
+		<id name="ID" column="COD_AGENCIA_P" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+
+
+		<property name="COD_DIVISION" column="COD_DIVISION" />
+		<property name="COD_AGENCIA_S" column="COD_AGENCIA_S" />
+		<property name="TIPO" column="TIPO" />
+		<property name="D_AGENCIA_S" column="D_AGENCIA_S" />
+
+		<loader query-ref="SELECT_AGENCIAS_SOPRA"/>
+
+	</class>
+
+	<sql-query name="SELECT_AGENCIAS_SOPRA">
+		<return class="Core.Domain.Seleccion.Agencias, Core">
+			<return-property name="ID" column="COD_AGENCIA_P"/>
+
+			<return-property name="COD_DIVISION" column="COD_DIVISION"/>
+			<return-property name="COD_AGENCIA_S" column="COD_AGENCIA_S"/>
+			<return-property name="TIPO" column="TIPO"/>
+			<return-property name="D_AGENCIA_S" column="D_AGENCIA_S"/>
+
+		</return>
+		exec [SELECT_AGENCIAS_SOPRA] :SW_VIGENTE
+	</sql-query>
+</hibernate-mapping>

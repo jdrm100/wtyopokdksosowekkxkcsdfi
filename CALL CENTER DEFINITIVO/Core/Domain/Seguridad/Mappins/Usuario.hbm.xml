@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seguridad.Usuario, Core" table="usuario" lazy="false">
+			<id name="ID" column="codusu" unsaved-value="0">
+				<generator class="identity"/>
+			</id>
+		<property name="nomusu" column="nomusu" />
+    <property name="login" column="login" />
+    <property name="clave" column="clave" />
+    <property name="ID_NIVEL" column="ID_NIVEL" />
+  </class>
+
+</hibernate-mapping>
+
+

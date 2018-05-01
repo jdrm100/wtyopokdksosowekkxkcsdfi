@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Solicitudes, Core" lazy="false" mutable="false">
+		<id name="ID" column="ID_SOLICITUD" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+
+		<property name="ID_PROYECTO" column="ID_PROYECTO" />
+		<property name="DESC_PROYECTO" column="DESC_PROYECTO" />
+		<property name="HABILIDAD_CONCATENADA_DESC" column="HABILIDAD_CONCATENADA_DESC" />
+		
+		<loader query-ref="APP_MANT_SELECT_SELT_SOLICITUD"/>
+
+	</class>
+
+	<sql-query name="APP_MANT_SELECT_SELT_SOLICITUD">
+		<return class="Core.Domain.Seleccion.Solicitudes, Core">
+			<return-property name="ID" column="ID_SOLICITUD"/>
+			<return-property name="ID_PROYECTO" column="ID_PROYECTO"/>
+			<return-property name="DESC_PROYECTO" column="DESC_PROYECTO"/>
+			<return-property name="HABILIDAD_CONCATENADA_DESC" column="HABILIDAD_CONCATENADA_DESC"/>
+			
+		</return>
+		exec [APP_MANT_SELECT_SELT_SOLICITUD] :ID_AGENCIA, :ID_TP_ESTADO, :PAGNUMBER, :ID_CANDIDATO
+	</sql-query>
+</hibernate-mapping>

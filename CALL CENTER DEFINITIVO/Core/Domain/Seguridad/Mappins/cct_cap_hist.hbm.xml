@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_cap_hist, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_H_CAP" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="ID_CAP" column="ID_CAP" />
+    <property name="DESCRIPCION" column="DESCRIPCION" />
+    <property name="RECIBE" column="RECIBE" />
+    <property name="FECHA" column="FECHA" />
+    <property name="FEC_REG" column="FEC_REG" />
+    <loader query-ref="SELECT_CCT_CAP_HIST"/>
+
+  </class>
+  <sql-query name="SELECT_CCT_CAP_HIST">
+    <return class="Core.Domain.Seguridad.cct_cap_hist, Core">
+      <return-property name="ID" column="ID_H_CAP"/>
+      <return-property name="ID_CAP" column="ID_CAP"/>
+      <return-property name="DESCRIPCION" column="DESCRIPCION"/>
+      <return-property name="RECIBE" column="RECIBE"/>
+      <return-property name="FECHA" column="FECHA"/>
+      <return-property name="FEC_REG" column="FEC_REG"/>
+    </return>
+    exec [SELECT_CCT_CAP_HIST] :_AGE, :_ACTIVO
+  </sql-query>
+</hibernate-mapping>
+

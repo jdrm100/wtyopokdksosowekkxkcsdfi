@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_componentes, Core" table="cct_componentes" lazy="false">
+    <id name="ID" column="id_comp" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="descripcion" column="descripcion" />
+    <property name="obl_sn" column="obl_sn" />
+    <property name="activo" column="activo" />
+
+  </class>
+
+</hibernate-mapping>

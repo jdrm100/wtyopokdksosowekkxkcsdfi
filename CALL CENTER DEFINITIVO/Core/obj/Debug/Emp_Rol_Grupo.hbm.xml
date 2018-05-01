@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seguridad.Emp_Rol_Grupo, Core" table="SEGURIDAD_EMPL_ROL_GRUPO" lazy="false">
+		<id name="ID" column="ID_EMPL_ROL_GRUPO" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="NUM_USR" column="NUM_USR"/>
+		<property name="ID_ROL" column="ID_ROL" />
+		<property name="ID_GRUPO" column="ID_GRUPO" />
+		
+	</class>
+</hibernate-mapping>

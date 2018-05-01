@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Menu.Role, Core" table="NET_ROLES" lazy="false">
+		<id name="ID" column="ID_ROLE" unsaved-value="0">
+			<generator class="assigned"/>
+		</id>
+		<property name="ROLE" column="ROLE" />
+
+		<bag name="FUNCIONES" table="NET_ROLE_FUNCION" >
+			<key>
+				<column name="ID_ROLE" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Menu.Funcion, Core">
+				<column name="ID_FUNCION" not-null="true"  />
+			</many-to-many>
+		</bag>
+	</class>
+</hibernate-mapping>

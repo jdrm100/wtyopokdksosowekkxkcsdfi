@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="REPOLOTNUMERJUGADO" targetNamespace="http://tempuri.org/REPOLOTNUMERJUGADO.xsd" xmlns:mstns="http://tempuri.org/REPOLOTNUMERJUGADO.xsd" xmlns="http://tempuri.org/REPOLOTNUMERJUGADO.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="REPOLOTNUMERJUGADO" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="REPOLOTNUMERJUGADO" msprop:Generator_UserDSName="REPOLOTNUMERJUGADO">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ReporLotNumeJug" msprop:Generator_TableClassName="ReporLotNumeJugDataTable" msprop:Generator_TableVarName="tableReporLotNumeJug" msprop:Generator_TablePropName="ReporLotNumeJug" msprop:Generator_RowDeletingName="ReporLotNumeJugRowDeleting" msprop:Generator_RowChangingName="ReporLotNumeJugRowChanging" msprop:Generator_RowEvHandlerName="ReporLotNumeJugRowChangeEventHandler" msprop:Generator_RowDeletedName="ReporLotNumeJugRowDeleted" msprop:Generator_UserTableName="ReporLotNumeJug" msprop:Generator_RowChangedName="ReporLotNumeJugRowChanged" msprop:Generator_RowEvArgName="ReporLotNumeJugRowChangeEvent" msprop:Generator_RowClassName="ReporLotNumeJugRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="_Agente" msprop:Generator_ColumnVarNameInTable="column_Agente" msprop:Generator_ColumnPropNameInRow="_Agente" msprop:Generator_ColumnPropNameInTable="_AgenteColumn" msprop:Generator_UserColumnName="_Agente" type="xs:string" minOccurs="0" />
+              <xs:element name="_Nombre" msprop:Generator_ColumnVarNameInTable="column_Nombre" msprop:Generator_ColumnPropNameInRow="_Nombre" msprop:Generator_ColumnPropNameInTable="_NombreColumn" msprop:Generator_UserColumnName="_Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="_Ticket" msprop:Generator_ColumnVarNameInTable="column_Ticket" msprop:Generator_ColumnPropNameInRow="_Ticket" msprop:Generator_ColumnPropNameInTable="_TicketColumn" msprop:Generator_UserColumnName="_Ticket" type="xs:string" minOccurs="0" />
+              <xs:element name="_Fecha" msprop:Generator_ColumnVarNameInTable="column_Fecha" msprop:Generator_ColumnPropNameInRow="_Fecha" msprop:Generator_ColumnPropNameInTable="_FechaColumn" msprop:Generator_UserColumnName="_Fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="_Hora" msprop:Generator_ColumnVarNameInTable="column_Hora" msprop:Generator_ColumnPropNameInRow="_Hora" msprop:Generator_ColumnPropNameInTable="_HoraColumn" msprop:Generator_UserColumnName="_Hora" type="xs:string" minOccurs="0" />
+              <xs:element name="_Monto" msprop:Generator_ColumnVarNameInTable="column_Monto" msprop:Generator_ColumnPropNameInRow="_Monto" msprop:Generator_ColumnPropNameInTable="_MontoColumn" msprop:Generator_UserColumnName="_Monto" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Juego" msprop:Generator_ColumnVarNameInTable="column_Juego" msprop:Generator_ColumnPropNameInRow="_Juego" msprop:Generator_ColumnPropNameInTable="_JuegoColumn" msprop:Generator_UserColumnName="_Juego" type="xs:string" minOccurs="0" />
+              <xs:element name="_Tanda" msprop:Generator_ColumnVarNameInTable="column_Tanda" msprop:Generator_ColumnPropNameInRow="_Tanda" msprop:Generator_ColumnPropNameInTable="_TandaColumn" msprop:Generator_UserColumnName="_Tanda" type="xs:string" minOccurs="0" />
+              <xs:element name="_NumeroJUG" msprop:Generator_ColumnVarNameInTable="column_NumeroJUG" msprop:Generator_ColumnPropNameInRow="_NumeroJUG" msprop:Generator_ColumnPropNameInTable="_NumeroJUGColumn" msprop:Generator_UserColumnName="_NumeroJUG" type="xs:string" minOccurs="0" />
+              <xs:element name="_TotalMonto" msprop:Generator_ColumnVarNameInTable="column_TotalMonto" msprop:Generator_ColumnPropNameInRow="_TotalMonto" msprop:Generator_ColumnPropNameInTable="_TotalMontoColumn" msprop:Generator_UserColumnName="_TotalMonto" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_FI" msprop:Generator_ColumnVarNameInTable="column_FI" msprop:Generator_ColumnPropNameInRow="_FI" msprop:Generator_ColumnPropNameInTable="_FIColumn" msprop:Generator_UserColumnName="_FI" type="xs:string" minOccurs="0" />
+              <xs:element name="_FD" msprop:Generator_ColumnVarNameInTable="column_FD" msprop:Generator_ColumnPropNameInRow="_FD" msprop:Generator_ColumnPropNameInTable="_FDColumn" msprop:Generator_UserColumnName="_FD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

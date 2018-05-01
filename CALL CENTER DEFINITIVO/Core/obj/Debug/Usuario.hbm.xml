@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seguridad.Usuario, Core" table="NET_PASS_EMPLEADOS" lazy="false">
+			<id name="ID" column="NUM_USR" unsaved-value="0">
+				<generator class="identity"/>
+			</id>
+		<property name="ID_USER" column="ID_USER" />
+		<property name="NOMBRE" column="NOMBRE" />
+		<property name="PASSWORD" column="PASSWORD" />
+		<property name="PASS_CHANGE" column="PASS_CHANGE" />
+		<property name="SW_BLOQUEO" column="SW_BLOQUEO" />
+		<property name="CONT_BLOQ" column="CONT_BLOQ" />
+		<property name="IP_USER_ERR" column="IP_USER_ERR" />
+		<property name="CCONTABLE" column="CCONTABLE" />
+		<property name="FEC_REG" column="FEC_REG" />
+		<bag name="GRUPOS" table="SEGURIDAD_EMPL_ROL_GRUPO">
+			<key>
+				<column name="NUM_USR" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Seguridad.Grupo, Core">
+				<column name="ID_GRUPO" not-null="true" />
+			</many-to-many>
+		</bag>
+		<loader query-ref="Empleado_Agencia"/>
+		
+	</class>
+
+</hibernate-mapping>
+

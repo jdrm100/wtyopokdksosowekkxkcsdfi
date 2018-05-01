@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Habilidades_Tipo, Core" table="SELT_HABILIDADES_TIPO" lazy="false" >
+		<id name="ID" column="ID_HABILIDAD_TIPO" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="DESCRIPCION" column="DESCRIPCION" />
+		<property name="DESCRIPCION_CORTA" column="DESCRIPCION_CORTA" />
+		<bag name="HABILIDADES" table="SELT_HABILIDADES">
+			<key>
+				<column name="ID_HABILIDAD_TIPO" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Seleccion.Habilidades, Core">
+				<column name="ID_HABILIDAD" not-null="true" />
+			</many-to-many>
+		</bag>
+	</class>
+</hibernate-mapping>

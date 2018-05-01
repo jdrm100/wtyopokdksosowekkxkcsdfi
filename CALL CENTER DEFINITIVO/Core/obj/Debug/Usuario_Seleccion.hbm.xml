@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Usuario_Seleccion, Core" table="SELT_CANDIDATOS" lazy="false" >
+		<id name="ID" column="ID_CANDIDATO" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="NOMBRE_CANDIDATO" column="NOMBRE_CANDIDATO" />
+		<property name="APELLIDO_CANDIDATO" column="APELLIDO_CANDIDATO" />
+	</class>
+</hibernate-mapping>

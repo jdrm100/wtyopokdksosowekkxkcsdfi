@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.venta_curso, Core" table="VENTAS_CURSO" lazy="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="agente" column="agente" />
+    <property name="fecha" column="fecha" />
+    <property name="ventas" column="ventas" />
+    <property name="pagos" column="pagos" />
+    <property name="comv" column="comv" />
+    <property name="comp" column="comp" />
+    <property name="comr" column="comr" />
+    <property name="total" column="total" />
+  </class>
+
+</hibernate-mapping>

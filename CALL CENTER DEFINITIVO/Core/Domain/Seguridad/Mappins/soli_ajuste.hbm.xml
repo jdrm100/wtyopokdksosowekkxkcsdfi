@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.soli_ajuste, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="ENVIO_SOLI_AJUSTE"/>
+  </class>
+
+  <sql-query name="ENVIO_SOLI_AJUSTE">
+    <return class="Core.Domain.Seguridad.soli_ajuste, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [ENVIO_SOLI_AJUSTE] :usu, :agente,:comen
+  </sql-query>
+
+</hibernate-mapping>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.generic_update, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="descr" column="descr" />
+  </class>
+  <sql-query name="UPDATE_COMP">
+    <return class="Core.Domain.Seguridad.generic_update, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="descr" column="descr"/>
+    </return>
+    exec [UPDATE_COMP]:_ID, :_DESC
+  </sql-query>
+
+  <sql-query name="UPDATE_CARA">
+    <return class="Core.Domain.Seguridad.generic_update, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="descr" column="descr"/>
+    </return>
+    exec [UPDATE_CARA]:_ID_COMP, :_ID, :_DESC
+  </sql-query>
+
+</hibernate-mapping>

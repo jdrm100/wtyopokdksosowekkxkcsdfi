@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Agrupaciones, Core" table="VI_RESPONSABILIDADES" lazy="false" >
+		<id name="ID" column="AGRUPACION" >
+			<generator class="assigned"/>
+		</id>
+		<property name="ID_RESPONSABILIDAD" column="ID_RESPONSABILIDAD" />
+		<property name="ID_USER" column="ID_USER" />
+	</class>
+	<sql-query name="MANT_QUITAR_AGRUPACION">
+		<return class="Core.Domain.Gastos.Agrupaciones, Core">
+			<return-property name="ID_USER" column="ID_USER" />
+			<return-property name="AGRUPACION" column="AGRUPACION" />
+			<return-property name="ID_RESPONSABILIDAD" column="ID_RESPONSABILIDAD" />
+		</return>
+		exec [MANT_QUITAR_AGRUPACION] :ID_USER, :AGRUPACION, :ID_RESPONSABILIDAD
+	</sql-query>
+	<sql-query name="MANT_INSERT_VI_RESPONSABILIDADES">
+		<return class="Core.Domain.Gastos.Agrupaciones, Core">
+			<return-property name="ID_USER" column="ID_USER" />
+			<return-property name="AGRUPACION" column="AGRUPACION" />
+			<return-property name="ID_RESPONSABILIDAD" column="ID_RESPONSABILIDAD" />
+		</return>
+		exec [MANT_INSERT_VI_RESPONSABILIDADES] :ID_USER, :AGRUPACION, :ID_RESPONSABILIDAD
+	</sql-query>
+</hibernate-mapping>

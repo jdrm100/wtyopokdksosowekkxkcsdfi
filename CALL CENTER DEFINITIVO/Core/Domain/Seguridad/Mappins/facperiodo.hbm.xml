@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.facperiodo, Core" table="AGE_FAC_PER" lazy="false">
+    <id name="ID" column="ID" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="codage" column="AGENTE" />
+    <property name="fecfin" column="FECFIN" />
+    <property name="monto" column="MONTO" />
+
+  </class>
+
+</hibernate-mapping>

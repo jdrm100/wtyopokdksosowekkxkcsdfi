@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_reg_comp, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="INSERT_REG_COMP"/>
+  </class>
+
+  <sql-query name="INSERT_REG_COMP">
+    <return class="Core.Domain.Seguridad.cct_reg_comp, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [INSERT_REG_COMP] :_AGENTE, :_ID_COMP, :_ACTIVO
+  </sql-query>
+
+</hibernate-mapping>
+

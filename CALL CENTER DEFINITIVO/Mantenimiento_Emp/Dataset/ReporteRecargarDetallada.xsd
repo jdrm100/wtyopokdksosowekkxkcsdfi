@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReporteRecargarDetallada" targetNamespace="http://tempuri.org/ReporteRecargarDetallada.xsd" xmlns:mstns="http://tempuri.org/ReporteRecargarDetallada.xsd" xmlns="http://tempuri.org/ReporteRecargarDetallada.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReporteRecargarDetallada" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReporteRecargarDetallada" msprop:Generator_UserDSName="ReporteRecargarDetallada">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Reporte_x0020_de_x0020_Recargar_x0020_Detallada" msprop:Generator_TableClassName="Reporte_de_Recargar_DetalladaDataTable" msprop:Generator_TableVarName="tableReporte_de_Recargar_Detallada" msprop:Generator_RowChangedName="Reporte_de_Recargar_DetalladaRowChanged" msprop:Generator_TablePropName="Reporte_de_Recargar_Detallada" msprop:Generator_RowDeletingName="Reporte_de_Recargar_DetalladaRowDeleting" msprop:Generator_RowChangingName="Reporte_de_Recargar_DetalladaRowChanging" msprop:Generator_RowEvHandlerName="Reporte_de_Recargar_DetalladaRowChangeEventHandler" msprop:Generator_RowDeletedName="Reporte_de_Recargar_DetalladaRowDeleted" msprop:Generator_RowClassName="Reporte_de_Recargar_DetalladaRow" msprop:Generator_UserTableName="Reporte de Recargar Detallada" msprop:Generator_RowEvArgName="Reporte_de_Recargar_DetalladaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="_Agente" msprop:Generator_ColumnVarNameInTable="column_Agente" msprop:Generator_ColumnPropNameInRow="_Agente" msprop:Generator_ColumnPropNameInTable="_AgenteColumn" msprop:Generator_UserColumnName="_Agente" type="xs:string" minOccurs="0" />
+              <xs:element name="_Claro" msprop:Generator_ColumnVarNameInTable="column_Claro" msprop:Generator_ColumnPropNameInRow="_Claro" msprop:Generator_ColumnPropNameInTable="_ClaroColumn" msprop:Generator_UserColumnName="_Claro" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Orange" msprop:Generator_ColumnVarNameInTable="column_Orange" msprop:Generator_ColumnPropNameInRow="_Orange" msprop:Generator_ColumnPropNameInTable="_OrangeColumn" msprop:Generator_UserColumnName="_Orange" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Viva" msprop:Generator_ColumnVarNameInTable="column_Viva" msprop:Generator_ColumnPropNameInRow="_Viva" msprop:Generator_ColumnPropNameInTable="_VivaColumn" msprop:Generator_UserColumnName="_Viva" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Tricom" msprop:Generator_ColumnVarNameInTable="column_Tricom" msprop:Generator_ColumnPropNameInRow="_Tricom" msprop:Generator_ColumnPropNameInTable="_TricomColumn" msprop:Generator_UserColumnName="_Tricom" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Digicel" msprop:Generator_ColumnVarNameInTable="column_Digicel" msprop:Generator_ColumnPropNameInRow="_Digicel" msprop:Generator_ColumnPropNameInTable="_DigicelColumn" msprop:Generator_UserColumnName="_Digicel" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Nombre" msprop:Generator_ColumnVarNameInTable="column_Nombre" msprop:Generator_ColumnPropNameInRow="_Nombre" msprop:Generator_ColumnPropNameInTable="_NombreColumn" msprop:Generator_UserColumnName="_Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="_Gestor" msprop:Generator_ColumnVarNameInTable="column_Gestor" msprop:Generator_ColumnPropNameInRow="_Gestor" msprop:Generator_ColumnPropNameInTable="_GestorColumn" msprop:Generator_UserColumnName="_Gestor" type="xs:string" minOccurs="0" />
+              <xs:element name="_Total" msprop:Generator_ColumnVarNameInTable="column_Total" msprop:Generator_ColumnPropNameInRow="_Total" msprop:Generator_ColumnPropNameInTable="_TotalColumn" msprop:Generator_UserColumnName="_Total" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_FI" msprop:Generator_ColumnVarNameInTable="column_FI" msprop:Generator_ColumnPropNameInRow="_FI" msprop:Generator_ColumnPropNameInTable="_FIColumn" msprop:Generator_UserColumnName="_FI" type="xs:string" minOccurs="0" />
+              <xs:element name="_FD" msprop:Generator_ColumnVarNameInTable="column_FD" msprop:Generator_ColumnPropNameInRow="_FD" msprop:Generator_ColumnPropNameInTable="_FDColumn" msprop:Generator_UserColumnName="_FD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

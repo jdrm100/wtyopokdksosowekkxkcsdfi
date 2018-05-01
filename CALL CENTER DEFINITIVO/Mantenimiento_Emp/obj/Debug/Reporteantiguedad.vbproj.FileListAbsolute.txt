@@ -1,0 +1,30 @@
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.exe.config
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.exe
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.pdb
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.xml
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Resources.resources
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Filtrar.resources
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Reporte_de_Antiguedad.resources
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.exe
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.xml
+C:\Users\JoseMiguelOlivo\Documents\Visual Studio 2013\Projects\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.pdb
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.exe.config
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.exe
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.pdb
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\bin\Debug\Reporteantiguedad.xml
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Resources.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.ActualizarBalances.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.AntiguedadDetallado.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.comisioness.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.exexcejecutar.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.ReporteAntiguedadDetallado.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Filtrar.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.frm_antiguedadgestor.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.Reporte_de_Antiguedad.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.ReproteComisionesForm.resources
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.exe
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.xml
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.pdb
+C:\Users\jose\Desktop\Reporteantiguedad\Reporteantiguedad\obj\Debug\Reporteantiguedad.vbprojResolveAssemblyReference.cache

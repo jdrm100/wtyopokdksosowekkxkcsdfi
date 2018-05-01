@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seguridad.Rol, Core" table="SEGURIDAD_ROLES" lazy="false">
+		<id name="ID" column="ID_ROL" type="Int32" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="DESC_ROL" column="DESC_ROL" />
+		<property name="TP_ROL" column="TP_ROL" />
+		<property name="SW_ROL" column="SW_ROL" />
+		<property name="FECHA_REGISTRO" column="FECHA_REGISTRO" />
+
+		<bag name="ACCIONES" table="SEGURIDAD_ROL_ACCION">
+			<key>
+				<column name="ID_ROL" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Seguridad.Accion, Core">
+				<column name="ID_ACCION" not-null="true" />
+			</many-to-many>
+		</bag>
+
+	</class>
+</hibernate-mapping>

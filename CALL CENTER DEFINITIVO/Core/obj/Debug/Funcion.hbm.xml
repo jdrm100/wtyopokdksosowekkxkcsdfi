@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Menu.Funcion, Core" table="NET_FUNCION" lazy="false">
+		<id name="ID" column="ID_FUNCION" unsaved-value="0">
+			<generator class="assigned"/>
+		</id>
+		<property name="D_FUNCION" column="D_FUNCION" />
+		<property name="IND_MENU" column="IND_MENU" />
+
+	</class>
+</hibernate-mapping>

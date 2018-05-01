@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.gestores, Core" table="gestor" lazy="false">
+    <id name="ID" column="codges" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nomges" column="nomges" />
+    <property name="telges" column="telges" /><!--relacion con codusu de la tabla de usuario-->
+    
+  </class>
+
+</hibernate-mapping>

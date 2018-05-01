@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_reg_cara_age, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="INSERT_REG_CARA_AGE"/>
+  </class>
+
+  <sql-query name="INSERT_REG_CARA_AGE">
+    <return class="Core.Domain.Seguridad.cct_reg_cara_age, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [INSERT_REG_CARA_AGE] :_AGENTE, :_ID_COMP, :_ID_CARA, :_S1, :_S2, :_ACTIVO, :_ACTUALIZA
+  </sql-query>
+
+</hibernate-mapping>

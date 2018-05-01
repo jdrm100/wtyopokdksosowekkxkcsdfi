@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.empleado, Core" table="empleado" lazy="false">
+    <id name="ID" column="codemp" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nomemp" column="nomemp" />
+    <property name="apeemp" column="apeemp" />
+
+  </class>
+
+</hibernate-mapping>

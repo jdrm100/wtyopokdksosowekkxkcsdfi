@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.sol_noblo_select, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_SOL" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="agente" column="agente" />
+    <property name="nombre" column="nombre" />
+    <property name="desc_noblo" column="desc_noblo" />
+    <property name="fecha" column="fecha" />
+    <property name="fecha_fin" column="fecha_fin" />
+    <property name="comen" column="comen" />
+    <property name="nomusu" column="nomusu" />
+    <property name="ID_EST" column="ID_EST" />
+    <property name="DESC_ESTADO" column="DESC_ESTADO" />
+    <property name="ID_NIVEL_PROX" column="ID_NIVEL_PROX" />
+    <loader query-ref="SELECT_NO_BLOQ_AGE"/>
+  </class>
+
+  <sql-query name="SELECT_NO_BLOQ_AGE">
+    <return class="Core.Domain.Seguridad.sol_noblo_select, Core">
+      <return-property name="ID" column="ID_SOL"/>
+      <return-property name="agente" column="agente"/>
+      <return-property name="nombre" column="nombre"/>
+      <return-property name="desc_noblo" column="desc_noblo"/>
+      <return-property name="fecha" column="fecha"/>
+      <return-property name="fecha_fin" column="fecha_fin"/>
+      <return-property name="comen" column="comen"/>
+      <return-property name="nomusu" column="nomusu"/>
+      <return-property name="ID_EST" column="ID_EST"/>
+      <return-property name="DESC_ESTADO" column="DESC_ESTADO"/>
+      <return-property name="ID_NIVEL_PROX" column="ID_NIVEL_PROX"/>
+    </return>
+    exec [SELECT_NO_BLOQ_AGE] :id_nivel, :age, :nom_age, :est
+  </sql-query>
+
+</hibernate-mapping>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Contabilidad_Gral, Core" table="VI_CONTABILIDAD_GENERAL" lazy="false" >
+		<id name="ID" column="ID_CONTABILIDAD" unsaved-value="0" >
+			<generator class="assigned"/>
+		</id>
+		<property name="EMPLEADO" column="EMPLEADO" />
+		<property name="FECHA" column="FECHA" />
+		<property name="ID_PROYECTO" column="ID_PROYECTO" />
+		<bag name="APROBACIONES" table="VI_APROBACION_CONTABILIDAD" >
+			<key>
+				<column name="CONTABILIDAD" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Gastos.Aprobaciones, Core">
+				<column name="APROBACION" not-null="true"  />
+			</many-to-many>
+		</bag>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_reg_tk, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="INSERT_REG_TK"/>
+  </class>
+
+  <sql-query name="INSERT_REG_TK">
+    <return class="Core.Domain.Seguridad.cct_reg_tk, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [INSERT_REG_TK] :_ID_EST_TK,:_VERIF_SN, :_ID_REG, :_COMEN, :_ID_INCFRM, :_CODUSU
+  </sql-query>
+
+  <sql-query name="UPDATE_CCT_TKS">
+    <return class="Core.Domain.Seguridad.cct_reg_tk, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [UPDATE_CCT_TKS] :_ID_TK, :_ID_EST_TK, :_VERIF
+  </sql-query>
+
+  <sql-query name="SELECT_ESTADO_CCT_TK">
+    <return class="Core.Domain.Seguridad.cct_reg_tk, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [SELECT_ESTADO_CCT_TK] :_ID_TK
+  </sql-query>
+
+  
+
+</hibernate-mapping>

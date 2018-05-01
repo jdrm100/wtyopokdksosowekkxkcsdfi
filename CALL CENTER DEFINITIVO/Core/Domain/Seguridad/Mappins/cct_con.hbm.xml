@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_con, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_CONCLUSION" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="DESCRIPCION" column="DESCRIPCION" />
+    <property name="ACTIVO" column="ACTIVO" />
+  </class>
+
+  <sql-query name="SELECT_CCT_CON">
+    <return class="Core.Domain.Seguridad.cct_con, Core">
+      <return-property name="ID" column="ID_CONCLUSION"/>
+      <return-property name="DESCRIPCION" column="DESCRIPCION"/>
+      <return-property name="ACTIVO" column="ACTIVO"/>
+    </return>
+    exec [SELECT_CCT_CON] :descripcion, :activo
+  </sql-query>
+
+  <sql-query name="INSERT_CCT_CON">
+    <return class="Core.Domain.Seguridad.cct_con, Core">
+      <return-property name="ID" column="ID_CONCLUSION"/>
+      <return-property name="DESCRIPCION" column="DESCRIPCION"/>
+      <return-property name="ACTIVO" column="ACTIVO"/>
+    </return>
+    exec [INSERT_CCT_CON] :id, :descripcion, :activo, :usuario
+  </sql-query>
+
+</hibernate-mapping>

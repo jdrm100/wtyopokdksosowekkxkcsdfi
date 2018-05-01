@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReporteRecargarResumido" targetNamespace="http://tempuri.org/ReporteRecargarResumido.xsd" xmlns:mstns="http://tempuri.org/ReporteRecargarResumido.xsd" xmlns="http://tempuri.org/ReporteRecargarResumido.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReporteRecargarResumido" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ReporteRecargarResumido" msprop:Generator_UserDSName="ReporteRecargarResumido">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Reporte_x0020_Recargar_x0020_Resumido" msprop:Generator_TableClassName="Reporte_Recargar_ResumidoDataTable" msprop:Generator_TableVarName="tableReporte_Recargar_Resumido" msprop:Generator_TablePropName="Reporte_Recargar_Resumido" msprop:Generator_RowDeletingName="Reporte_Recargar_ResumidoRowDeleting" msprop:Generator_RowChangingName="Reporte_Recargar_ResumidoRowChanging" msprop:Generator_RowEvHandlerName="Reporte_Recargar_ResumidoRowChangeEventHandler" msprop:Generator_RowDeletedName="Reporte_Recargar_ResumidoRowDeleted" msprop:Generator_UserTableName="Reporte Recargar Resumido" msprop:Generator_RowChangedName="Reporte_Recargar_ResumidoRowChanged" msprop:Generator_RowEvArgName="Reporte_Recargar_ResumidoRowChangeEvent" msprop:Generator_RowClassName="Reporte_Recargar_ResumidoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="_Agente" msprop:Generator_ColumnVarNameInTable="column_Agente" msprop:Generator_ColumnPropNameInRow="_Agente" msprop:Generator_ColumnPropNameInTable="_AgenteColumn" msprop:Generator_UserColumnName="_Agente" type="xs:string" minOccurs="0" />
+              <xs:element name="_Claro" msprop:Generator_ColumnVarNameInTable="column_Claro" msprop:Generator_ColumnPropNameInRow="_Claro" msprop:Generator_ColumnPropNameInTable="_ClaroColumn" msprop:Generator_UserColumnName="_Claro" type="xs:string" minOccurs="0" />
+              <xs:element name="_Viva" msprop:Generator_ColumnVarNameInTable="column_Viva" msprop:Generator_ColumnPropNameInRow="_Viva" msprop:Generator_ColumnPropNameInTable="_VivaColumn" msprop:Generator_UserColumnName="_Viva" type="xs:string" minOccurs="0" />
+              <xs:element name="_Orange" msprop:Generator_ColumnVarNameInTable="column_Orange" msprop:Generator_ColumnPropNameInRow="_Orange" msprop:Generator_ColumnPropNameInTable="_OrangeColumn" msprop:Generator_UserColumnName="_Orange" type="xs:string" minOccurs="0" />
+              <xs:element name="_Tricom" msprop:Generator_ColumnVarNameInTable="column_Tricom" msprop:Generator_ColumnPropNameInRow="_Tricom" msprop:Generator_ColumnPropNameInTable="_TricomColumn" msprop:Generator_UserColumnName="_Tricom" type="xs:string" minOccurs="0" />
+              <xs:element name="_Digicel" msprop:Generator_ColumnVarNameInTable="column_Digicel" msprop:Generator_ColumnPropNameInRow="_Digicel" msprop:Generator_ColumnPropNameInTable="_DigicelColumn" msprop:Generator_UserColumnName="_Digicel" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

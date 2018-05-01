@@ -1,0 +1,215 @@
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\Core.dll.config
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\Core.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\Core.pdb
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\Core.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\NHibernate.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\NHibernate.JetDriver.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Release\log4net.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll.config
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Core\obj\Debug\Core.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll.config
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll.config
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\log4net.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Resources.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll.config
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.xml
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\bin\Debug\log4net.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Resources.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll.config
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\bin\Debug\log4net.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Resources.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb

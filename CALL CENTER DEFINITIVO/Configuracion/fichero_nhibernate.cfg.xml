@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration  xmlns="urn:nhibernate-configuration-2.2" >
+	<session-factory>
+		<!-- properties -->
+		<property name="hibernate.dialect">NHibernate.Dialect.MsSql2000Dialect</property>
+		<property name="hibernate.connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+		<property name="hibernate.connection.connection_string">Data Source=10.0.0.8\SERVERR2;Initial Catalog=lrc_r4;User ID=lrc;password=lrc12345</property>
+
+		<!-- mapping files -->
+		<mapping assembly="Core"/>
+	</session-factory>
+
+</hibernate-configuration>

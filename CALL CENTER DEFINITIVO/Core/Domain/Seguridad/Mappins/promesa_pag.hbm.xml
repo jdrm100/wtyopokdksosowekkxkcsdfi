@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.promesa_pag, Core" table="PROMESA_PAG" lazy="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="codage" column="codage" />
+    <property name="fecha" column="fecha" />
+    <property name="codges" column="codges" />
+  </class>
+
+</hibernate-mapping>

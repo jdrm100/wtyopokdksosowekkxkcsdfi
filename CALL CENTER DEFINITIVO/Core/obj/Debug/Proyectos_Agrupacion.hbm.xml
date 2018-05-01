@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Proyectos_Agrupacion, Core" table="VI_RESPONSABLE_CENTRO_COSTE" lazy="false" >
+		<id name="ID" column="ID_CENTRO_COSTE" >
+			<generator class="assigned"/>
+		</id>
+		<property name="ID_AGRUPACION" column="ID_AGRUPACION" />
+		<property name="RESPONSABLE" column="RESPONSABLE" />
+	</class>
+	<sql-query name="MANT_QUITAR_PROYECTOS_AGRUPACION">
+		<return class="Core.Domain.Gastos.Agrupaciones, Core">
+			<return-property name="ID_AGRUPACION" column="ID_AGRUPACION" />
+			<return-property name="RESPONSABLE" column="RESPONSABLE" />
+			<return-property name="ID_CENTRO_COSTE" column="ID_CENTRO_COSTE" />
+		</return>
+		exec [MANT_QUITAR_PROYECTOS_AGRUPACION] :RESPONSABLE, :ID_AGRUPACION
+	</sql-query>
+	<sql-query name="MANT_QUITAR_PROYECTO_AGRUPACION">
+		<return class="Core.Domain.Gastos.Agrupaciones, Core">
+			<return-property name="ID_AGRUPACION" column="ID_AGRUPACION" />
+			<return-property name="RESPONSABLE" column="RESPONSABLE" />
+			<return-property name="ID_CENTRO_COSTE" column="ID_CENTRO_COSTE" />
+		</return>
+		exec [MANT_QUITAR_PROYECTO_AGRUPACION] :RESPONSABLE, :ID_AGRUPACION, :ID_CENTRO_COSTE
+	</sql-query>
+	<sql-query name="MANT_INSERT_VI_RESPONSABLE_CENTRO_COSTE">
+		<return class="Core.Domain.Gastos.Agrupaciones, Core">
+			<return-property name="ID_AGRUPACION" column="ID_AGRUPACION" />
+			<return-property name="RESPONSABLE" column="RESPONSABLE" />
+			<return-property name="ID_CENTRO_COSTE" column="ID_CENTRO_COSTE" />
+		</return>
+		exec [MANT_INSERT_VI_RESPONSABLE_CENTRO_COSTE] :RESPONSABLE, :ID_AGRUPACION, :ID_CENTRO_COSTE
+	</sql-query>
+</hibernate-mapping>

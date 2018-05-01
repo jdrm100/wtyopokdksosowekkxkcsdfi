@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_reg_cap, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="INSERT_CCT_CAP"/>
+  </class>
+
+  <sql-query name="INSERT_CCT_CAP">
+    <return class="Core.Domain.Seguridad.cct_reg_cap, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [INSERT_CCT_CAP] :_id_cap, :_age, :_rec, :_ent, :_id_empl, :_fecha, :_fec_reg, :_id_reg, :_codusu, :_activo, :_id_h_cap
+  </sql-query>
+
+</hibernate-mapping>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Contabilidad_Gral, Core" table="VI_CONTABILIDAD_GENERAL" lazy="false" >
+		<id name="ID" column="ID_CONTABILIDAD" type="Int32" unsaved-value="0" >
+			<generator class="assigned"/>
+		</id>
+		<property name="EMPLEADO" column="EMPLEADO" />
+		<property name="FECHA" column="FECHA" />
+		<property name="CANT" column="VALOR" />
+		<property name="LOTE" column="LOTE" />
+		<property name="ID_PROYECT" column="ID_PROYECTO" />
+		<property name="VISA" column="VISA" />
+		<property name="F_REGISTRO" column="F_REGISTRO" />
+		<property name="SSP_PROYECTO" column="SSP_PROYECTO" />
+		<many-to-one name="PROYECTO" column="ID_PROYECTO"/>
+		<many-to-one name="CONTABILIDAD_IMPORTE" column="ID_CONTABILIDAD"/>
+		<bag name="CONTABILIDAD_BLOQUEO" table="VI_CONTABILIDAD_BLOQUEO" >
+			<key>
+				<column name="ID_CONTABILIDAD" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Gastos.Contabilidad_Bloqueo, Core">
+				<column name="ID_CONTABILIDAD_BLOQ" not-null="true"  />
+			</many-to-many>
+		</bag>
+		<bag name="APROBACION_CONTABILIDAD" table="VI_APROBACION_CONTABILIDAD" >
+			<key>
+				<column name="CONTABILIDAD" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Gastos.Aprobacion_Contabilidad, Core">
+				<column name="APROBACION" not-null="true"  />
+			</many-to-many>
+		</bag>
+		<bag name="APROBACIONES" table="VI_APROBACION_CONTABILIDAD" >
+			<key>
+				<column name="CONTABILIDAD" not-null="true" />
+			</key>
+			<many-to-many class="Core.Domain.Gastos.Aprobaciones, Core">
+				<column name="APROBACION" not-null="true"  />
+			</many-to-many>
+		</bag>
+	</class>
+	<sql-query name="MANT_ELIMINA_GASTO">
+		<return class="Core.Domain.Gastos.Aprobacion_Contabilidad, Core">
+			<return-property name="EMPLEADO" column="EMPLEADO" />
+		</return>
+		exec [MANT_ELIMINA_GASTO] :ID_CONTABILIDAD, :ID_APROBACION
+	</sql-query>
+</hibernate-mapping>

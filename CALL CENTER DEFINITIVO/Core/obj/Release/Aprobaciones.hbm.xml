@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Aprobaciones, Core" table="VI_APROBACION" lazy="false" >
+		<id name="ID" column="ID_APROBACION" type="Int32" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="TIPO_APROBACION" column="TIPO_APROBACION" />
+		<property name="IMPORTE_TOTAL" column="IMPORTE_TOTAL" />
+		<property name="APROBADOR" column="APROBADOR" />
+		<property name="EMPLEADO" column="EMPLEADO" />
+		<property name="ESTADO" column="ESTADO" />
+		
+	</class>
+</hibernate-mapping>

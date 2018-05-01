@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Habilidades, Core" table="SELT_HABILIDADES" lazy="false" >
+		<id name="ID" column="ID_HABILIDAD" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="ID_HABILIDAD_TIPO" column="ID_HABILIDAD_TIPO" />
+		<property name="DESC_HABILIDAD" column="DESC_HABILIDAD" />
+		<property name="ID_UNIDAD" column="ID_UNIDAD" />
+		<property name="VALOR_MAX" column="VALOR_MAX" />
+	</class>
+</hibernate-mapping>

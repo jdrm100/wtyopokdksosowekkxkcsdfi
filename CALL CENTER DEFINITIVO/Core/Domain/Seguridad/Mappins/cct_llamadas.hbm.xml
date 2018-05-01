@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_llamadas, Core" lazy="false"  mutable="false">
+    <id name="ID" column="id" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="resultado" column="resultado" />
+    <loader query-ref="INSERT_LLAMADA"/>
+  </class>
+
+  <sql-query name="INSERT_LLAMADA">
+    <return class="Core.Domain.Seguridad.cct_llamadas, Core">
+      <return-property name="ID" column="id"/>
+      <return-property name="resultado" column="resultado"/>
+    </return>
+    exec [INSERT_LLAMADA] :_ID_TP_LLAMADA, :_AGENTE, :_CODUSU, :_ID_TP_CONT, :_NOM_CONT, :_NUM_MOT, :_NUM_TK_A, :_NUM_TK_C, :_FEC_TK_C, :_FECHA, :_H_INI, :_H_FIN, :_ACTIVO
+  </sql-query>
+
+</hibernate-mapping>

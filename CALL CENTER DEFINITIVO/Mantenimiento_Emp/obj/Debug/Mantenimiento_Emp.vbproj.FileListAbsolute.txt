@@ -1,0 +1,822 @@
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Administrator\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\isaac\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Tecnologia\Desktop\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\LOTO REAL\server\copy proyecto11\copy proyecto\Mantenimiento_Empleados\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\JoseOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\JoseMiguelOlivo\Desktop\Intalaciones\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\Programa de Call Center 15-07-2017\Produccion 12-12-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.ResolveComReference.cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ActualizarBalances.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\AntiguedadDetallado.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comisioness.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\exexcejecutar.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Filtrar.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\frm_antiguedadgestor.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reporte_de_Antiguedad.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadDetallado.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ReproteComisionesForm.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\jose\Desktop\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg01.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ActualizarBalances.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\AntiguedadDetallado.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\comisioness.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\exexcejecutar.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Filtrar.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\frm_antiguedadgestor.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Reporte_de_Antiguedad.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadDetallado.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\ReproteComisionesForm.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\jose\Desktop\Respaldo 03-03-2018\Call Center 02-03-2018\CALL CENTER NUEVO V1\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg001.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg011.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ActualizarBalances.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\AntiguedadDetallado.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comisioness.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\exexcejecutar.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Filtrar.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_antiguedadgestor.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_de_Antiguedad.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadDetallado.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadResumido.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReproteComisionesForm.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmSistema_de_Facturacion_Reporte_de_Recarga.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Sistema_de_Facturacion_Reporte_de_Numero_Jugados.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_Sistema_de_Facturacion_Reporte_de_Recargas.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Ssitema_de_Facturacion_Transanciones.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmReporte_Loteria.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FRMReporte_Recarga.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Bloqueado_Retirado.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_Bloqueo_vista.resources
+C:\Users\Ing.Jose Miguelolivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Retiro_Vista.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg001.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg011.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ActualizarBalances.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\AntiguedadDetallado.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Bloqueado_Retirado.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comisioness.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\exexcejecutar.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Filtrar.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_antiguedadgestor.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_Bloqueo_vista.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_de_Antiguedad.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmReporte_Loteria.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FRMReporte_Recarga.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadDetallado.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadResumido.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReproteComisionesForm.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Retiro_Vista.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmSistema_de_Facturacion_Reporte_de_Recarga.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Sistema_de_Facturacion_Reporte_de_Numero_Jugados.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_Sistema_de_Facturacion_Reporte_de_Recargas.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Ssitema_de_Facturacion_Transanciones.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\Ing Jose Olivo\Desktop\Loto\Visual Basic.Net\PRODUCCION CALL CENTER 16-03-2018\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\Ing Jose Olivo\Source\Workspaces\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\Ing Jose Olivo\Source\Workspaces\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\Ing Jose Olivo\Source\Workspaces\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\Ing Jose Olivo\Source\Workspaces\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\bloqueos.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_cedula.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_conclusiones.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_h_conectividad.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_incidencias.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_mant_comp_cara.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_motivos.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_notas_frm.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_reg_aux.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_tickets.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cct_ticket_abiertos.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_cobros.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\cc_tecnico.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\clasif_per.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comentario.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_age_aux.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comp_carac_aux.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\empl.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\est_cuenta.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FCCCobro.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ges_aux.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\inc_mant01.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Login.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\pros.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg001.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg011.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reg02.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\soliajuste.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloaprob.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\solinobloq.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\webform.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Dialog1.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form4.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ActualizarBalances.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\AntiguedadDetallado.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Bloqueado_Retirado.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\comisioness.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\exexcejecutar.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Filtrar.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_antiguedadgestor.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_Bloqueo_vista.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Reporte_de_Antiguedad.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmReporte_Loteria.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\FRMReporte_Recarga.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadDetallado.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReporteAntiguedadResumido.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ReproteComisionesForm.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Retiro_Vista.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frmSistema_de_Facturacion_Reporte_de_Recarga.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Sistema_de_Facturacion_Reporte_de_Numero_Jugados.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\frm_Sistema_de_Facturacion_Reporte_de_Recargas.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Ssitema_de_Facturacion_Transanciones.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form1.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form2.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Form3.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Principal.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\antCXC_VIEWER.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\CXC_GESTOR_VIWER.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ProcesoCXC.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ANTIGUEDAD_GESTOR_CONTABILIDAD_FORM.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\ANTIGUEDAD_GESTOR_CONTABILIDAD_VIEWER.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Iesi.Collections.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\log4net.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\NHibernate.dll
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Core.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.pdb
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Data.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Resources.resources
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_h_tks, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_REG" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="FECHA" column="FECHA" />
+    <property name="ESTADO_TICKET" column="ESTADO_TICKET" />
+    <property name="MOTIVO_APERTURA" column="MOTIVO_APERTURA" />
+    <property name="INCIDENCIA_APERTURA" column="INCIDENCIA_APERTURA" />
+    <property name="CONTACTO_APERTURA" column="CONTACTO_APERTURA" />
+    <property name="NOTA" column="NOTA" />
+    <property name="GESTOR" column="GESTOR" />
+    <property name="HORA" column="HORA" />
+    <property name="INCIDENCIA_CIERRE" column="INCIDENCIA_CIERRE" />
+    <property name="CONTACTO_CIERRE" column="CONTACTO_CIERRE" />
+    <property name="NOTA_CIERRE" column="NOTA_CIERRE" />
+    <property name="GESTOR_CIERRE" column="GESTOR_CIERRE" />
+    <property name="FECHA_CIERRE" column="FECHA_CIERRE" />
+    <property name="HORA_CIERRE" column="HORA_CIERRE" />
+    <property name="DIAS_ABIERTO" column="DIAS_ABIERTO" />
+    <property name="COMPARACION_INCIDENCIA" column="COMPARACION_INCIDENCIA" />
+    <property name="VERIFICACION" column="VERIFICACION" />
+    <property name="VERIFICADO_POR" column="VERIFICADO_POR" />
+    <property name="NOTA_VERIFICACION" column="NOTA_VERIFICACION" />
+    <property name="FECHA_VERIFICACION" column="FECHA_VERIFICACION" />
+    <property name="HORA_VERIFICACION" column="HORA_VERIFICACION" />
+    <property name="DIAS_POR_VERIFICACION" column="DIAS_POR_VERIFICACION" />
+   </class>
+
+  <sql-query name="SELECT_CCT_H_TKS">
+    <return class="Core.Domain.Seguridad.cct_h_tks, Core">
+      <return-property name="ID" column="ID_REG"/>
+      <return-property name="FECHA" column="FECHA" />
+      <return-property name="ESTADO_TICKET" column="ESTADO_TICKET" />
+      <return-property name="MOTIVO_APERTURA" column="MOTIVO_APERTURA" />
+      <return-property name="INCIDENCIA_APERTURA" column="INCIDENCIA_APERTURA" />
+      <return-property name="CONTACTO_APERTURA" column="CONTACTO_APERTURA" />
+      <return-property name="NOTA" column="NOTA" />
+      <return-property name="GESTOR" column="GESTOR" />
+      <return-property name="HORA" column="HORA" />
+      <return-property name="INCIDENCIA_CIERRE" column="INCIDENCIA_CIERRE" />
+      <return-property name="CONTACTO_CIERRE" column="CONTACTO_CIERRE" />
+      <return-property name="NOTA_CIERRE" column="NOTA_CIERRE" />
+      <return-property name="GESTOR_CIERRE" column="GESTOR_CIERRE" />
+      <return-property name="FECHA_CIERRE" column="FECHA_CIERRE" />
+      <return-property name="HORA_CIERRE" column="HORA_CIERRE" />
+      <return-property name="DIAS_ABIERTO" column="DIAS_ABIERTO" />
+      <return-property name="COMPARACION_INCIDENCIA" column="COMPARACION_INCIDENCIA" />
+      <return-property name="VERIFICACION" column="VERIFICACION" />
+      <return-property name="VERIFICADO_POR" column="VERIFICADO_POR" />
+      <return-property name="NOTA_VERIFICACION" column="NOTA_VERIFICACION" />
+      <return-property name="FECHA_VERIFICACION" column="FECHA_VERIFICACION" />
+      <return-property name="HORA_VERIFICACION" column="HORA_VERIFICACION" />
+      <return-property name="DIAS_POR_VERIFICACION" column="DIAS_POR_VERIFICACION" />
+    </return>
+    exec [SELECT_CCT_H_TKS] :_AGENTE
+  </sql-query>
+</hibernate-mapping>
+
+

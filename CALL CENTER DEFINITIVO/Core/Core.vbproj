@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A5A5EBB-5193-4D6E-91E4-668FC2924556}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>Core</AssemblyName>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Core.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Core.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NHibernate, Version=1.2.0.3001, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Solution Items\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.JetDriver, Version=1.2.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Solution Items\NHibernate.JetDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataInterfaces\IDaoFactory.vb" />
+    <Compile Include="DataInterfaces\IGenericDao.vb" />
+    <Compile Include="Domain\cct_materiales.vb" />
+    <Compile Include="Domain\DomainObject.vb" />
+    <Compile Include="Domain\Seguridad\agente.vb" />
+    <Compile Include="Domain\Seguridad\age_sin_venta.vb" />
+    <Compile Include="Domain\Seguridad\bloquear.vb" />
+    <Compile Include="Domain\Seguridad\callcenteradm.vb" />
+    <Compile Include="Domain\Seguridad\cct_capacitaciones.vb" />
+    <Compile Include="Domain\Seguridad\cct_cap_hist.vb" />
+    <Compile Include="Domain\Seguridad\cct_componentes.vb" />
+    <Compile Include="Domain\Seguridad\cct_comp_age.vb" />
+    <Compile Include="Domain\Seguridad\cct_comp_cara_age.vb" />
+    <Compile Include="Domain\Seguridad\cct_con.vb" />
+    <Compile Include="Domain\Seguridad\cct_h_ll.vb" />
+    <Compile Include="Domain\Seguridad\cct_h_ll_age.vb" />
+    <Compile Include="Domain\Seguridad\cct_h_tks.vb" />
+    <Compile Include="Domain\Seguridad\cct_incidencia.vb" />
+    <Compile Include="Domain\Seguridad\cct_inc_con.vb" />
+    <Compile Include="Domain\Seguridad\cct_llamadas.vb" />
+    <Compile Include="Domain\Seguridad\cct_mat_hist.vb" />
+    <Compile Include="Domain\Seguridad\cct_motivo.vb" />
+    <Compile Include="Domain\Seguridad\cct_mot_inc.vb" />
+    <Compile Include="Domain\Seguridad\cct_notas.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_cap.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_cara_age.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_comp.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_llamada.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_mat.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_nota.vb" />
+    <Compile Include="Domain\Seguridad\cct_reg_tk.vb" />
+    <Compile Include="Domain\Seguridad\cct_tks.vb" />
+    <Compile Include="Domain\Seguridad\cct_tp_llamada.vb" />
+    <Compile Include="Domain\Seguridad\cct_tp_llamada_motivo.vb" />
+    <Compile Include="Domain\Seguridad\empl.vb" />
+    <Compile Include="Domain\Seguridad\empleado.vb" />
+    <Compile Include="Domain\Seguridad\estado_cuenta.vb" />
+    <Compile Include="Domain\Seguridad\facperiodo.vb" />
+    <Compile Include="Domain\Seguridad\generic_update.vb" />
+    <Compile Include="Domain\Seguridad\gestores.vb" />
+    <Compile Include="Domain\Seguridad\gestor_usuario.vb" />
+    <Compile Include="Domain\Seguridad\promesa_pag.vb" />
+    <Compile Include="Domain\Seguridad\prosp.vb" />
+    <Compile Include="Domain\Seguridad\qjm_cua_s.vb" />
+    <Compile Include="Domain\Seguridad\soli_ajuste.vb" />
+    <Compile Include="Domain\Seguridad\sol_noblo.vb" />
+    <Compile Include="Domain\Seguridad\sol_noblo_aprob.vb" />
+    <Compile Include="Domain\Seguridad\sol_noblo_select.vb" />
+    <Compile Include="Domain\Seguridad\sol_noblo_tipos.vb" />
+    <Compile Include="Domain\Seguridad\Usuario.vb" />
+    <Compile Include="Domain\Seguridad\usu_llamadas.vb" />
+    <Compile Include="Domain\Seguridad\venta_curso.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\Usuario.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\agente.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\gestores.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\callcenteradm.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\empleado.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\gestor_usuario.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\estado_cuenta.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\usu_llamadas.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\venta_curso.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\qjm_cua_s.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\facperiodo.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\soli_ajuste.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\promesa_pag.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\bloquear.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\sol_noblo_tipos.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\sol_noblo.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\sol_noblo_aprob.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\sol_noblo_select.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_tp_llamada.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_motivo.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_tp_llamada_motivo.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_incidencia.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_mot_inc.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_con.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_inc_con.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\prosp.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_llamada.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\empl.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\age_sin_venta.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_llamadas.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_componentes.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_comp.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_comp_age.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_comp_cara_age.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_materiales.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_mat.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_cara_age.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_mat_hist.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_capacitaciones.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_cap.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_cap_hist.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_tk.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_h_ll_age.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_tks.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_reg_nota.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_notas.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_h_ll.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_h_tks.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Domain\Seguridad\Mappins\cct_generic_update.hbm.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

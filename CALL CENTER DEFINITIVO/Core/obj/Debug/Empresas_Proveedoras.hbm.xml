@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Empresas_Proveedoras, Core" table=" EMPRESA_PROVEEDORA" lazy="false" >
+		<id name="ID" column="ID_EMP_PROV" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="DESC_EMP_PROV" column="DESC_EMP_PROV" />
+	</class>
+</hibernate-mapping>

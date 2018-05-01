@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seguridad.Aplicacion, Core" table="SEGURIDAD_APLICACION" lazy="false">
+		<id name="ID" column="ID_APLICACION" type="Int32" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="DESC_APLICACION" column="DESC_APLICACION" />
+		<property name="SW_APLICACION" column="SW_APLICACION" />
+		<property name="FEC_REGISTRO" column="FEC_REGISTRO" />
+		
+	</class>
+</hibernate-mapping>

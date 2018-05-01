@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.agente, Core" table="agente" lazy="false">
+    <id name="ID" column="codgtech" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="nombre" column="nombre" />
+    <property name="telefono1" column="telefono1" />
+    <property name="telefono2" column="telefono2" />
+    <property name="telcon1" column="telcon1" />
+    <property name="ciudad" column="ciudad" />
+    <property name="direccion" column="direccion" />
+    <property name="nomrep" column="nomrep" />
+    <property name="baldia" column="baldia" />
+    <property name="bloqueada" column="bloqueada" />
+    <property name="codasi" column="codasi" />
+    <property name="fax" column="fax" />
+    <property name="retirada" column="retirada" />
+    <property name="clasif" column="class" />
+
+    <property name="telcon2" column="telcon2" />
+    <property name="celcon" column="celcon" />
+    <property name="email" column="email" />
+    <property name="cedula" column="cedula" />
+    <property name="cy" column="cy" />
+    <property name="cx" column="cx" />
+    <property name="antdia" column="antdia" />
+    <property name="codsec" column="codsec" />
+    <property name="municipio" column="codmun" />
+    <property name="sector" column="codsec" />
+  </class>
+
+</hibernate-mapping>
+

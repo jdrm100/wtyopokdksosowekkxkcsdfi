@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Seleccion.Actualiza_Estado, Core" lazy="false">
+		<id name="RESPUESTA" column="RESPUESTA" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+
+		<loader query-ref="APP_MANT_CANDIDATO_ESTADO"/>
+
+	</class>
+
+	<sql-query name="APP_MANT_CANDIDATO_ESTADO">
+		<return class="Core.Domain.Seleccion.Actualiza_Estado, Core">
+			<return-property name="RESPUESTA" column="RESPUESTA"/>
+
+		</return>
+		exec [APP_MANT_CANDIDATO_ESTADO] :ID_CANDIDATO,:DES_ESTADO
+	</sql-query>
+</hibernate-mapping>

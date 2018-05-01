@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Agrupaciones_Total, Core" table="VIEW_AGRUP" lazy="false" >
+		<id name="ID" column="ID_AGRUPACION" type="Int32" unsaved-value="0">
+			<generator class="assigned"/>
+		</id>
+		<property name="FEC_INICIO" column="FEC_INICIO" />
+		<property name="FEC_FIN" column="FEC_FIN" />
+	</class>
+</hibernate-mapping>

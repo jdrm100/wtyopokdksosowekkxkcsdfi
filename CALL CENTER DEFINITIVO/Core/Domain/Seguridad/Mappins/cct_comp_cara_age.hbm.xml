@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.cct_comp_cara_age, Core" lazy="false"  mutable="false">
+    <id name="ID" column="ID_CARA" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="AGENTE" column="AGENTE" />
+    <property name="DESCRIPCION" column="DESCRIPCION" />
+    <property name="FEC" column="FEC" />
+    <property name="FEC_UPDATE" column="FEC_UPDATE" />
+    <property name="CODUSU_UPDATE" column="CODUSU_UPDATE" />
+    <property name="SERIAL1" column="SERIAL1" />
+    <property name="SERIAL2" column="SERIAL2" />
+    <property name="S1" column="S1" />
+    <property name="OBL_S1" column="OBL_S1" />
+    <property name="S2" column="S2" />
+    <property name="OBL_S2" column="OBL_S2" />
+  <loader query-ref="SELECT_COMP_CARA_AGE"/>
+   
+  </class>
+  <sql-query name="SELECT_COMP_CARA_AGE">
+    <return class="Core.Domain.Seguridad.cct_comp_cara_age, Core">
+      <return-property name="ID" column="ID_CARA"/>
+      <return-property name="AGENTE" column="AGENTE"/>
+      <return-property name="DESCRIPCION" column="DESCRIPCION"/>
+      <return-property name="FEC" column="FEC"/>
+      <return-property name="FEC_UPDATE" column="FEC_UPDATE"/>
+      <return-property name="CODUSU_UPDATE" column="CODUSU_UPDATE"/>
+      <return-property name="SERIAL1" column="SERIAL1"/>
+      <return-property name="SERIAL2" column="SERIAL2"/>
+      <return-property name="S1" column="S1"/>
+      <return-property name="OBL_S1" column="OBL_S1"/>
+      <return-property name="S2" column="S2"/>
+      <return-property name="OBL_S2" column="OBL_S2"/>
+    </return>
+    exec [SELECT_COMP_CARA_AGE] :_AGENTE, :_ID_COMP
+  </sql-query>
+    <sql-query name="SELECT_COMP_CARA_AGE_ACT">
+    <return class="Core.Domain.Seguridad.cct_comp_cara_age, Core">
+      <return-property name="ID" column="ID_CARA"/>
+      <return-property name="AGENTE" column="AGENTE"/>
+      <return-property name="DESCRIPCION" column="DESCRIPCION"/>
+      <return-property name="FEC" column="FEC"/>
+      <return-property name="FEC_UPDATE" column="FEC_UPDATE"/>
+      <return-property name="CODUSU_UPDATE" column="CODUSU_UPDATE"/>
+      <return-property name="SERIAL1" column="SERIAL1"/>
+      <return-property name="SERIAL2" column="SERIAL2"/>
+      <return-property name="S1" column="S1"/>
+      <return-property name="OBL_S1" column="OBL_S1"/>
+      <return-property name="S2" column="S2"/>
+      <return-property name="OBL_S2" column="OBL_S2"/>
+    </return>
+      exec [SELECT_COMP_CARA_AGE_ACT] :_AGENTE, :_ID_COMP, :_ACTIVO
+    </sql-query>
+  
+</hibernate-mapping>

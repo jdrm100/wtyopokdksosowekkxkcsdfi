@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Proyectos, Core" table="VI_PROYECTO" lazy="false" >
+		<id name="ID" column="ID_PROYECTO" type="Int32" unsaved-value="0">
+			<generator class="identity"/>
+		</id>
+		<property name="ID_CENTRO_COSTE" column="ID_CENTRO_COSTE" />
+		<property name="NOMBRE" column="NOMBRE" />
+		<property name="F_FIN" column="F_FIN" />
+		
+	</class>
+</hibernate-mapping>

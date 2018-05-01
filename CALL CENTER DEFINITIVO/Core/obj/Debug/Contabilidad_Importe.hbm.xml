@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Contabilidad_Importe, Core" table="VI_CONTABILIDAD_IMPORTE" lazy="false" >
+		<id name="ID" column="ID_CONTABILIDAD" type="Int32" unsaved-value="0" >
+			<generator class="identity"/>
+		</id>
+		<property name="ID_CONCEPTO" column="ID_CONCEPTO" />
+		<property name="IMPORTE" column="IMPORTE" />
+		<many-to-one name="CONCEPTO_VIAJE" column="ID_CONCEPTO"/>
+		
+	</class>
+</hibernate-mapping>

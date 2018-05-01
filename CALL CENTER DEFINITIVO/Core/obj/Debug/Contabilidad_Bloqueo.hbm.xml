@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Contabilidad_Bloqueo, Core" table="VI_CONTABILIDAD_BLOQUEO" lazy="false" >
+		<id name="ID" column="ID_CONTABILIDAD_BLOQ" type="Int32" unsaved-value="0" >
+			<generator class="identity"/>
+		</id>
+		<property name="ID_CONTABILIDAD" column="ID_CONTABILIDAD" />
+		<property name="EMPLEADO_BLOQ" column="EMPLEADO_BLOQ" />
+		<property name="FECHA_BLOQ" column="FECHA_BLOQ" />
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.bloquear, Core" lazy="false"  mutable="false">
+    <id name="ID" column="AGENTE" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="NOMBRE" column="NOMBRE" />
+    <property name="CLASIF" column="CLASIF" />
+    <property name="FACTURA" column="FACTURA" />
+    <property name="BAL" column="BAL" />
+    <property name="BAL_CURSO" column="BAL_CURSO" />
+    <property name="EJECUTIVO" column="EJECUTIVO" />
+    <property name="GESTOR" column="GESTOR" />
+    
+    <loader query-ref="SELECT_BLOQ_AGE"/>
+
+  </class>
+
+  <sql-query name="SELECT_BLOQ_AGE">
+    <return class="Core.Domain.Seguridad.bloquear, Core">
+      <return-property name="ID" column="AGENTE"/>
+
+      <return-property name="NOMBRE" column="NOMBRE"/>
+      <return-property name="CLASIF" column="CLASIF"/>
+      <return-property name="FACTURA" column="FACTURA"/>
+      <return-property name="BAL" column="BAL"/>
+      <return-property name="BAL_CURSO" column="BAL_CURSO"/>
+      <return-property name="EJECUTIVO" column="EJECUTIVO"/>
+      <return-property name="GESTOR" column="GESTOR"/>
+    </return>
+    exec [SELECT_BLOQ_AGE] :EXCEP1,:EXCEP2,:EXCEP3,:EXCEP4,:EXCEP5,:EXCEP6
+  </sql-query>
+
+  <sql-query name="SELECT_BLOQ_AGE_EXEP">
+    <return class="Core.Domain.Seguridad.bloquear, Core">
+      <return-property name="ID" column="AGENTE"/>
+
+      <return-property name="NOMBRE" column="NOMBRE"/>
+      <return-property name="CLASIF" column="CLASIF"/>
+      <return-property name="FACTURA" column="FACTURA"/>
+      <return-property name="BAL" column="BAL"/>
+      <return-property name="BAL_CURSO" column="BAL_CURSO"/>
+      <return-property name="EJECUTIVO" column="EJECUTIVO"/>
+      <return-property name="GESTOR" column="GESTOR"/>
+    </return>
+    exec [SELECT_BLOQ_AGE_EXEP] :EXCEP1,:EXCEP2,:EXCEP3,:EXCEP4,:EXCEP5,:EXCEP6
+  </sql-query>
+
+</hibernate-mapping>

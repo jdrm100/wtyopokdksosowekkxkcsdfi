@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Core.Domain.Gastos.Aprobacion_Contabilidad, Core" table="VI_APROBACION_CONTABILIDAD" lazy="false" >
+		<id name="ID" column="APROBACION" type="Int32" unsaved-value="0" >
+			<generator class="identity"/>
+		</id>
+		<property name="CONTABILIDAD" column="CONTABILIDAD" />
+		<property name="FECHA" column="FECHA" />
+		<property name="FECHA_APROB_DIRECTOR" column="FECHA_APROB_DIRECTOR" />
+		<property name="FECHA_APROB_ADMON" column="FECHA_APROB_ADMON" />
+
+	</class>
+</hibernate-mapping>

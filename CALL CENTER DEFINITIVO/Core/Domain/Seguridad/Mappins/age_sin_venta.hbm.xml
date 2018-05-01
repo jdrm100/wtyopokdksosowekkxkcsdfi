@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Core.Domain.Seguridad.age_sin_venta, Core" table="TEMP_AGE_SIN_VENTA" lazy="false">
+    <id name="ID" column="agente" unsaved-value="0">
+      <generator class="identity"/>
+    </id>
+    <property name="dias" column="dias" />
+    <property name="ultima_venta" column="ultima_venta" />
+    <property name="ticket_tec" column="ticket_tec" />
+  </class>
+</hibernate-mapping>
