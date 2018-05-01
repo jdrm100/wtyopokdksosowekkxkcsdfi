@@ -820,3 +820,7 @@ C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\De
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Mantenimiento_Emp\bin\Debug\Mantenimiento_Emp.exe.config
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.exe
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.xml
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Mantenimiento_Emp\obj\Debug\Mantenimiento_Emp.pdb
