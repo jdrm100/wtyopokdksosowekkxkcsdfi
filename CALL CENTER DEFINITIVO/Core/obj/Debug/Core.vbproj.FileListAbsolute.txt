@@ -213,3 +213,16 @@ C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbpr
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
 C:\Users\David\Desktop\trabajo l\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll.config
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.pdb
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.xml
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\log4net.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Resources.resources
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb

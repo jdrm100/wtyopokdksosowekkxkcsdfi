@@ -283,4 +283,12 @@ Public Class Principal
         Dim _Mostrar As New frmReporte_Loteria
         _Mostrar.Show()
     End Sub
+
+    Private Sub ReporteContabilidadToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteContabilidadToolStripMenuItem.Click
+        ANTIGUEDAD_GESTOR_CONTABILIDAD_FORM.Show()
+    End Sub
+
+    Private Sub ReporteCxcToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteCxcToolStripMenuItem.Click
+        ProcesoCXC.Show()
+    End Sub
 End Class
