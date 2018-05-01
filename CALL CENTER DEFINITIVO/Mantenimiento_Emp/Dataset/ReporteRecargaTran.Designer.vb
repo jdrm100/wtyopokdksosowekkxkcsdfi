@@ -299,9 +299,9 @@ Partial Public Class ReporteRecargaTran
         
         Private column_Provedoor As Global.System.Data.DataColumn
         
-        Private column_Cantidad As Global.System.Data.DataColumn
-
-        Private column_CantidadTotal As Global.System.Data.DataColumn
+        Private column_FI As Global.System.Data.DataColumn
+        
+        Private column_FD As Global.System.Data.DataColumn
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
@@ -404,17 +404,17 @@ Partial Public Class ReporteRecargaTran
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public ReadOnly Property _CantidadColumn() As Global.System.Data.DataColumn
+        Public ReadOnly Property _FIColumn() As Global.System.Data.DataColumn
             Get
-                Return Me.column_Cantidad
+                Return Me.column_FI
             End Get
         End Property
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public ReadOnly Property _CantidadTotalColumn() As Global.System.Data.DataColumn
+        Public ReadOnly Property _FDColumn() As Global.System.Data.DataColumn
             Get
-                Return Me.column_CantidadTotal
+                Return Me.column_FD
             End Get
         End Property
 
@@ -455,9 +455,9 @@ Partial Public Class ReporteRecargaTran
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Overloads Function AddReporte_Recarga_TransaccioneRow(ByVal _Agente As String, ByVal _Nombre As String, ByVal _Serial As String, ByVal _FechaS As String, ByVal _Hora As String, ByVal _Telefono As String, ByVal _Monto As Decimal, ByVal _Provedoor As String, ByVal _Cantidad As Short, ByVal _CantidadTotal As Short) As Reporte_Recarga_TransaccioneRow
+        Public Overloads Function AddReporte_Recarga_TransaccioneRow(ByVal _Agente As String, ByVal _Nombre As String, ByVal _Serial As String, ByVal _FechaS As String, ByVal _Hora As String, ByVal _Telefono As String, ByVal _Monto As Decimal, ByVal _Provedoor As String, ByVal _FI As String, ByVal _FD As String) As Reporte_Recarga_TransaccioneRow
             Dim rowReporte_Recarga_TransaccioneRow As Reporte_Recarga_TransaccioneRow = CType(Me.NewRow, Reporte_Recarga_TransaccioneRow)
-            Dim columnValuesArray() As Object = New Object() {_Agente, _Nombre, _Serial, _FechaS, _Hora, _Telefono, _Monto, _Provedoor, _Cantidad, _CantidadTotal}
+            Dim columnValuesArray() As Object = New Object() {_Agente, _Nombre, _Serial, _FechaS, _Hora, _Telefono, _Monto, _Provedoor, _FI, _FD}
             rowReporte_Recarga_TransaccioneRow.ItemArray = columnValuesArray
             Me.Rows.Add(rowReporte_Recarga_TransaccioneRow)
             Return rowReporte_Recarga_TransaccioneRow
@@ -488,8 +488,8 @@ Partial Public Class ReporteRecargaTran
             Me.column_Telefono = MyBase.Columns("_Telefono")
             Me.column_Monto = MyBase.Columns("_Monto")
             Me.column_Provedoor = MyBase.Columns("_Provedoor")
-            Me.column_Cantidad = MyBase.Columns("_Cantidad")
-            Me.column_CantidadTotal = MyBase.Columns("_CantidadTotal")
+            Me.column_FI = MyBase.Columns("_FI")
+            Me.column_FD = MyBase.Columns("_FD")
         End Sub
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
@@ -511,10 +511,10 @@ Partial Public Class ReporteRecargaTran
             MyBase.Columns.Add(Me.column_Monto)
             Me.column_Provedoor = New Global.System.Data.DataColumn("_Provedoor", GetType(String), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.column_Provedoor)
-            Me.column_Cantidad = New Global.System.Data.DataColumn("_Cantidad", GetType(Short), Nothing, Global.System.Data.MappingType.Element)
-            MyBase.Columns.Add(Me.column_Cantidad)
-            Me.column_CantidadTotal = New Global.System.Data.DataColumn("_CantidadTotal", GetType(Short), Nothing, Global.System.Data.MappingType.Element)
-            MyBase.Columns.Add(Me.column_CantidadTotal)
+            Me.column_FI = New Global.System.Data.DataColumn("_FI", GetType(String), Nothing, Global.System.Data.MappingType.Element)
+            MyBase.Columns.Add(Me.column_FI)
+            Me.column_FD = New Global.System.Data.DataColumn("_FD", GetType(String), Nothing, Global.System.Data.MappingType.Element)
+            MyBase.Columns.Add(Me.column_FD)
         End Sub
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
@@ -789,33 +789,33 @@ Partial Public Class ReporteRecargaTran
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Property _Cantidad() As Short
+        Public Property _FI() As String
             Get
                 Try
-                    Return CType(Me(Me.tableReporte_Recarga_Transaccione._CantidadColumn), Short)
+                    Return CType(Me(Me.tableReporte_Recarga_Transaccione._FIColumn), String)
                 Catch e As Global.System.InvalidCastException
-                    Throw New Global.System.Data.StrongTypingException("El valor de la columna '_Cantidad' de la tabla 'Reporte Recarga Transaccione' es " & _
-                            "DBNull.", e)
+                    Throw New Global.System.Data.StrongTypingException("El valor de la columna '_FI' de la tabla 'Reporte Recarga Transaccione' es DBNull" & _
+                            ".", e)
                 End Try
             End Get
-            Set(value As Short)
-                Me(Me.tableReporte_Recarga_Transaccione._CantidadColumn) = value
+            Set(value As String)
+                Me(Me.tableReporte_Recarga_Transaccione._FIColumn) = value
             End Set
         End Property
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Property _CantidadTotal() As Short
+        Public Property _FD() As String
             Get
                 Try
-                    Return CType(Me(Me.tableReporte_Recarga_Transaccione._CantidadTotalColumn), Short)
+                    Return CType(Me(Me.tableReporte_Recarga_Transaccione._FDColumn), String)
                 Catch e As Global.System.InvalidCastException
-                    Throw New Global.System.Data.StrongTypingException("El valor de la columna '_CantidadTotal' de la tabla 'Reporte Recarga Transaccione" & _
-                            "' es DBNull.", e)
+                    Throw New Global.System.Data.StrongTypingException("El valor de la columna '_FD' de la tabla 'Reporte Recarga Transaccione' es DBNull" & _
+                            ".", e)
                 End Try
             End Get
-            Set(value As Short)
-                Me(Me.tableReporte_Recarga_Transaccione._CantidadTotalColumn) = value
+            Set(value As String)
+                Me(Me.tableReporte_Recarga_Transaccione._FDColumn) = value
             End Set
         End Property
 
@@ -917,26 +917,26 @@ Partial Public Class ReporteRecargaTran
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Function Is_CantidadNull() As Boolean
-            Return Me.IsNull(Me.tableReporte_Recarga_Transaccione._CantidadColumn)
+        Public Function Is_FINull() As Boolean
+            Return Me.IsNull(Me.tableReporte_Recarga_Transaccione._FIColumn)
         End Function
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Sub Set_CantidadNull()
-            Me(Me.tableReporte_Recarga_Transaccione._CantidadColumn) = Global.System.Convert.DBNull
+        Public Sub Set_FINull()
+            Me(Me.tableReporte_Recarga_Transaccione._FIColumn) = Global.System.Convert.DBNull
         End Sub
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Function Is_CantidadTotalNull() As Boolean
-            Return Me.IsNull(Me.tableReporte_Recarga_Transaccione._CantidadTotalColumn)
+        Public Function Is_FDNull() As Boolean
+            Return Me.IsNull(Me.tableReporte_Recarga_Transaccione._FDColumn)
         End Function
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Sub Set_CantidadTotalNull()
-            Me(Me.tableReporte_Recarga_Transaccione._CantidadTotalColumn) = Global.System.Convert.DBNull
+        Public Sub Set_FDNull()
+            Me(Me.tableReporte_Recarga_Transaccione._FDColumn) = Global.System.Convert.DBNull
         End Sub
     End Class
     

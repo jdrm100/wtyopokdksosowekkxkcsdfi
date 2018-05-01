@@ -193,6 +193,8 @@ Public Class cc_tecnico
         Me.txt_ciudad.Text = list_agentes.Item(0).ciudad
         Me.txt_tel1.Text = list_agentes.Item(0).telefono1 & " / " & LTrim(RTrim(list_agentes.Item(0).fax)) & " / " & LTrim(RTrim(list_agentes.Item(0).telcon1)) & " / " & LTrim(RTrim(list_agentes.Item(0).telefono2))
         Me.txt_dir.Text = list_agentes.Item(0).direccion
+        txt_mun.Text = list_agentes.Item(0).municipio
+        txt_sec.Text = list_agentes.Item(0).sector
         Me.txt_rep.Text = list_agentes.Item(0).nomrep
         Me.txt_ruta.Text = list_agentes.Item(0).codasi
         ret = IIf(list_agentes.Item(0).retirada = "1", "/Retirada", "")
@@ -436,7 +438,6 @@ Public Class cc_tecnico
         Me.txt_cont.Text = ""
         inicializar_registro()
     End Sub
-
     Private Sub BtnStart_Click(sender As Object, e As EventArgs)
         Timer1.Enabled = True
     End Sub
@@ -710,9 +711,9 @@ Public Class cc_tecnico
 
             'carga_datos_agens(age_list)
             'carga_dgv_agentes(age_list)
-            'Me.dgv_agentes.Focus()
+            Me.dgv_agentes.Focus()
         ElseIf age_list.Count > 1 Then
-            carga_dgv_agentes(age_list)
+            'carga_dgv_agentes(age_list)
             Me.dgv_agentes.Focus()
 
         ElseIf Me.cmb_filtro.Text = "Tickets abiertos" Then
@@ -729,17 +730,19 @@ Public Class cc_tecnico
             End If
 
         ElseIf Me.cmb_filtro.Text = "Verificar cierre" Then
-            '  age_list = age_cctDao.GetByTkVerif("", "Pendiente", Me.lbl_nom.Text)
-            If age_list.Count = 0 Then
-                limpia_campos()
-            ElseIf age_list.Count = 1 Then
-                carga_datos_agens(age_list)
-                carga_dgv_agentes(age_list)
-                Me.dgv_agentes.Focus()
-            ElseIf age_list.Count > 1 Then
-                carga_dgv_agentes(age_list)
-                Me.dgv_agentes.Focus()
-            End If
+            verificcionCierre(codusu_cct)
+
+            'age_list = age_cctDao.GetByTkVerif("", "Pendiente", Me.lbl_nom.Text)
+            'If age_list.Count = 0 Then
+            '    limpia_campos()
+            'ElseIf age_list.Count = 1 Then
+            '    carga_datos_agens(age_list)
+            '    carga_dgv_agentes(age_list)
+            '    Me.dgv_agentes.Focus()
+            'ElseIf age_list.Count > 1 Then
+            '    carga_dgv_agentes(age_list)
+            '    Me.dgv_agentes.Focus()
+            'End If
 
 
 
@@ -1185,7 +1188,28 @@ Public Class cc_tecnico
 
 
         Catch ex As Exception
+            MsgBox("Error al mostrar los datos")
+        End Try
 
+
+    End Sub
+
+
+    Public Sub verificcionCierre(codusu_cct)
+
+        Try
+            Dim _Func As New CCTVerificacionCierre
+            _dt = _Func.verificacionCierreCCT(codusu_cct)
+            _dt.Columns(0).ColumnName = "ID"
+            dgv_agentes.DataSource = _dt
+
+
+
+
+            lbl_total.Text = _dt.Rows.Count
+            Me.lbl_nom.Text = Login.nomusu
+        Catch ex As Exception
+            MsgBox("Error al mostrar los datos")
         End Try
 
 
@@ -1215,8 +1239,7 @@ Public Class cc_tecnico
         End Try
     End Sub
 
-    Private Sub TT1_Popup(sender As Object, e As PopupEventArgs) Handles TT1.Popup
+   
 
-    End Sub
 End Class
 

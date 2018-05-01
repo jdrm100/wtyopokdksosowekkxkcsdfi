@@ -9,11 +9,11 @@ Public Class CCTAgenteSinVENTA
         Try
             Conetado()
             'Dim age_list As New List(Of agente)
-            _cmd = New SqlCommand("CCT_SELECT_USUARIO_RUTA")
+            _cmd = New SqlCommand("CCT_AGENTE_SIN_VENTA")
             _cmd.CommandType = CommandType.StoredProcedure
             _cmd.Connection = _ccn
 
-            _cmd.Parameters.Add("@usuario", SqlDbType.Int).Value = _Usuario
+            _cmd.Parameters.Add("@Usuario", SqlDbType.Int).Value = _Usuario
 
             If _cmd.ExecuteNonQuery Then
                 Dim _dt As New DataTable

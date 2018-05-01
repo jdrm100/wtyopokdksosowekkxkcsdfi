@@ -24,8 +24,8 @@ Partial Class cc_tecnico
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(cc_tecnico))
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.TT1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.cmb_icon = New System.Windows.Forms.ComboBox()
         Me.cmb_tip = New System.Windows.Forms.ComboBox()
@@ -388,7 +388,7 @@ Partial Class cc_tecnico
         Me.cmb_tec.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmb_tec.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmb_tec.FormattingEnabled = True
-        Me.cmb_tec.Location = New System.Drawing.Point(113, 28)
+        Me.cmb_tec.Location = New System.Drawing.Point(109, 28)
         Me.cmb_tec.Name = "cmb_tec"
         Me.cmb_tec.Size = New System.Drawing.Size(121, 21)
         Me.cmb_tec.TabIndex = 76
@@ -759,7 +759,7 @@ Partial Class cc_tecnico
         Me.btn_numeroganadore.Name = "btn_numeroganadore"
         Me.btn_numeroganadore.Size = New System.Drawing.Size(33, 33)
         Me.btn_numeroganadore.TabIndex = 80
-        Me.TT1.SetToolTip(Me.btn_numeroganadore, "Enviar numeros ganadores")
+        Me.TT1.SetToolTip(Me.btn_numeroganadore, "Enviar numeros ganadores del PEGA 3")
         Me.btn_numeroganadore.UseVisualStyleBackColor = False
         '
         'chb_pend
@@ -1448,17 +1448,17 @@ Partial Class cc_tecnico
         Me.dgv_hist.MultiSelect = False
         Me.dgv_hist.Name = "dgv_hist"
         Me.dgv_hist.ReadOnly = True
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_hist.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_hist.RowHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.dgv_hist.RowHeadersVisible = False
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dgv_hist.RowsDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dgv_hist.RowsDefaultCellStyle = DataGridViewCellStyle2
         Me.dgv_hist.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgv_hist.Size = New System.Drawing.Size(709, 169)
         Me.dgv_hist.TabIndex = 2
@@ -1646,7 +1646,7 @@ Partial Class cc_tecnico
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(1077, 479)
+        Me.ClientSize = New System.Drawing.Size(1024, 479)
         Me.Controls.Add(Me.btn_numeroganadore)
         Me.Controls.Add(Me.btn_tks)
         Me.Controls.Add(Me.btn_comp)
@@ -1763,6 +1763,7 @@ Partial Class cc_tecnico
     Friend WithEvents dgv_reg As System.Windows.Forms.DataGridView
     Friend WithEvents btn_quitar_act As System.Windows.Forms.Button
     Friend WithEvents btn_agrega_act As System.Windows.Forms.Button
+    Friend WithEvents btn_guardar As System.Windows.Forms.Button
     Friend WithEvents Label29 As System.Windows.Forms.Label
     Friend WithEvents pag_his As System.Windows.Forms.TabPage
     Friend WithEvents tb_reg As System.Windows.Forms.TabControl
@@ -1810,5 +1811,4 @@ Partial Class cc_tecnico
     Friend WithEvents CONCLUSION As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents NOTA As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents btn_numeroganadore As System.Windows.Forms.Button
-    Friend WithEvents btn_guardar As System.Windows.Forms.Button
 End Class

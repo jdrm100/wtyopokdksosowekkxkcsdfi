@@ -14,6 +14,7 @@ Public Class CccReporteRecargaResumido
 
             _Cmd = New SqlCommand("REPORTE_RECARGA_RESUMIDO")
             _Cmd.CommandType = CommandType.StoredProcedure
+            _Cmd.CommandTimeout = 12000
             _Cmd.Connection = _cnn
 
             _Cmd.Parameters.Add("@FechaInicial", SqlDbType.VarChar, 50).Value = tranformarFecha(_FechaInicial)
@@ -26,7 +27,9 @@ Public Class CccReporteRecargaResumido
 
                 Dim _ListaRecarga As New Ereporterecargaresumido
 
-                _ListaRecarga._Agente = _Leer("Agente")
+                If _Leer("Agente") IsNot DBNull.Value Then
+                    _ListaRecarga._Agente = _Leer("Agente")
+                End If
                 _ListaRecarga._Claro = _Leer("Claro")
                 _ListaRecarga._Digicel = _Leer("Orange")
                 _ListaRecarga._Orange = _Leer("Viva")
@@ -34,9 +37,15 @@ Public Class CccReporteRecargaResumido
                 _ListaRecarga._Viva = _Leer("Digicel")
 
                 _Total += _ListaRecarga._Claro + _ListaRecarga._Digicel + _ListaRecarga._Orange + _ListaRecarga._Tricom + _ListaRecarga._Viva
-                '_ListaRecarga._Total = _Total
+                _ListaRecarga._Total = _Total
+
+
+                _ListaRecarga._FI = _FechaInicial
+                _ListaRecarga._FD = _FechaFinal
+
                 _TipoListaReporteResumido.Add(_ListaRecarga)
 
+               
             End While
             _Leer.Close()
             desconectarme()

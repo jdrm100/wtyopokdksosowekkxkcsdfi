@@ -16,11 +16,14 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="_Agente" msprop:Generator_ColumnVarNameInTable="column_Agente" msprop:Generator_ColumnPropNameInRow="_Agente" msprop:Generator_ColumnPropNameInTable="_AgenteColumn" msprop:Generator_UserColumnName="_Agente" type="xs:string" minOccurs="0" />
-              <xs:element name="_Claro" msprop:Generator_ColumnVarNameInTable="column_Claro" msprop:Generator_ColumnPropNameInRow="_Claro" msprop:Generator_ColumnPropNameInTable="_ClaroColumn" msprop:Generator_UserColumnName="_Claro" type="xs:string" minOccurs="0" />
-              <xs:element name="_Viva" msprop:Generator_ColumnVarNameInTable="column_Viva" msprop:Generator_ColumnPropNameInRow="_Viva" msprop:Generator_ColumnPropNameInTable="_VivaColumn" msprop:Generator_UserColumnName="_Viva" type="xs:string" minOccurs="0" />
-              <xs:element name="_Orange" msprop:Generator_ColumnVarNameInTable="column_Orange" msprop:Generator_ColumnPropNameInRow="_Orange" msprop:Generator_ColumnPropNameInTable="_OrangeColumn" msprop:Generator_UserColumnName="_Orange" type="xs:string" minOccurs="0" />
-              <xs:element name="_Tricom" msprop:Generator_ColumnVarNameInTable="column_Tricom" msprop:Generator_ColumnPropNameInRow="_Tricom" msprop:Generator_ColumnPropNameInTable="_TricomColumn" msprop:Generator_UserColumnName="_Tricom" type="xs:string" minOccurs="0" />
-              <xs:element name="_Digicel" msprop:Generator_ColumnVarNameInTable="column_Digicel" msprop:Generator_ColumnPropNameInRow="_Digicel" msprop:Generator_ColumnPropNameInTable="_DigicelColumn" msprop:Generator_UserColumnName="_Digicel" type="xs:string" minOccurs="0" />
+              <xs:element name="_Claro" msprop:Generator_ColumnVarNameInTable="column_Claro" msprop:Generator_ColumnPropNameInRow="_Claro" msprop:Generator_ColumnPropNameInTable="_ClaroColumn" msprop:Generator_UserColumnName="_Claro" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Viva" msprop:Generator_ColumnVarNameInTable="column_Viva" msprop:Generator_ColumnPropNameInRow="_Viva" msprop:Generator_ColumnPropNameInTable="_VivaColumn" msprop:Generator_UserColumnName="_Viva" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Orange" msprop:Generator_ColumnVarNameInTable="column_Orange" msprop:Generator_ColumnPropNameInRow="_Orange" msprop:Generator_ColumnPropNameInTable="_OrangeColumn" msprop:Generator_UserColumnName="_Orange" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Tricom" msprop:Generator_ColumnVarNameInTable="column_Tricom" msprop:Generator_ColumnPropNameInRow="_Tricom" msprop:Generator_ColumnPropNameInTable="_TricomColumn" msprop:Generator_UserColumnName="_Tricom" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Digicel" msprop:Generator_ColumnVarNameInTable="column_Digicel" msprop:Generator_ColumnPropNameInRow="_Digicel" msprop:Generator_ColumnPropNameInTable="_DigicelColumn" msprop:Generator_UserColumnName="_Digicel" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_Total" msprop:Generator_ColumnVarNameInTable="column_Total" msprop:Generator_ColumnPropNameInRow="_Total" msprop:Generator_ColumnPropNameInTable="_TotalColumn" msprop:Generator_UserColumnName="_Total" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_FI" msprop:Generator_ColumnVarNameInTable="column_FI" msprop:Generator_ColumnPropNameInRow="_FI" msprop:Generator_ColumnPropNameInTable="_FIColumn" msprop:Generator_UserColumnName="_FI" type="xs:string" minOccurs="0" />
+              <xs:element name="_FD" msprop:Generator_ColumnVarNameInTable="column_FD" msprop:Generator_ColumnPropNameInRow="_FD" msprop:Generator_ColumnPropNameInTable="_FDColumn" msprop:Generator_UserColumnName="_FD" type="xs:string" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>

@@ -15,21 +15,10 @@
 
         End If
 
-        'If rdb_cxc.Checked = True Then
-        ''    cxcAntiguedad()
-
-        'End If
-
 
     End Sub
 
-    'Public Sub cxcAntiguedad()
-    '    Dim _Buscar As New Ccc_AntiguedadGestor
-    '    Dim _Lista As List(Of Eantiguedadsaldogestor) = _Buscar.AntCXC(dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date)
 
-    '    Dim _Mostrar As New CXC_GESTOR_VIWER(_Lista)
-    '    _Mostrar.Show()
-    'End Sub
     Public Sub Antiguedad(tipo As String, repre As String)
         Dim _Buscar As New Ccc_Antiguedad
         Dim _Lista As List(Of Eantiguedadsaldo) = _Buscar.AntiguedaddeSaldo(dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, tipo, repre)

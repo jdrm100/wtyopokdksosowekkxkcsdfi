@@ -24,33 +24,33 @@ Public Class ReproteComisionesForm
         Dim _buscar As New Ccc_Comiciones
         Dim _lista As New List(Of Ecomisiones)
 
-        'If AgenteTBOX.Text <> "" Then
+        If AgenteTBOX.Text <> "" Then
 
-        If TodasLoterias.Checked = True Then
-            _lista = _buscar.GenerarComiciones("todas", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, AgenteTBOX.Text)
+            If TodasLoterias.Checked = True Then
+                _lista = _buscar.GenerarComiciones("todas", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, Convert.ToInt64(AgenteTBOX.Text))
+            End If
+
+
+            If PorLoteria.Checked = True Then
+                _lista = _buscar.GenerarComiciones("una", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, Convert.ToInt64(AgenteTBOX.Text))
+            End If
+
+            If porLoteriaAll.Checked = True Then
+                _lista = _buscar.GenerarComiciones("unaGlobal", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, Convert.ToInt64(AgenteTBOX.Text))
+            End If
+
+
+            btn_Aceptar.Enabled = False
+
+            'BackgroundWorker1.RunWorkerAsync()
+
+             Dim _Mostrar As New comisioness(_lista)
+
+            _Mostrar.Show()
+            btn_Aceptar.Enabled = True
+        Else
+            MsgBox("Debe llenar el campo Agente")
         End If
-
-
-        If PorLoteria.Checked = True Then
-            _lista = _buscar.GenerarComiciones("una", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, AgenteTBOX.Text)
-        End If
-
-        If porLoteriaAll.Checked = True Then
-            _lista = _buscar.GenerarComiciones("unaGlobal", allLoterias.SelectedValue, dtp_FechaInicial.Value.Date, dtp_FechaFinal.Value.Date, AgenteTBOX.Text)
-        End If
-
-
-        btn_Aceptar.Enabled = False
-
-        'BackgroundWorker1.RunWorkerAsync()
-
-        Dim _Mostrar As New comisioness(_lista)
-
-        _Mostrar.Show()
-        btn_Aceptar.Enabled = True
-        'Else
-        'MsgBox("Debe llenar el campo Agente")
-        'End If
 
     End Sub
     Private Sub cargarLoterias()

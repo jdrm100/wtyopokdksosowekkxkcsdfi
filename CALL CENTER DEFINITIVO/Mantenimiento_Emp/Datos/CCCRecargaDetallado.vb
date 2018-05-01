@@ -34,18 +34,42 @@ Public Class CCCRecargaDetallado
                 Dim _Recargadetallada As New Erecargadetalla
                 _Recargadetallada._FI = _FechaIncial
                 _Recargadetallada._FD = _FechaFinal
-                _Recargadetallada._Agente = _Leer("Agente")
-                _Recargadetallada._Claro = _Leer("Claro")
-                _Recargadetallada._Digicel = _Leer("Dicitel")
-                _Recargadetallada._Gestor = _Leer("Gestor")
-                _Recargadetallada._Nombre = _Leer("Nombre")
-                _Recargadetallada._Orange = _Leer("Orange")
-                _Recargadetallada._Viva = _Leer("Viva")
-                _Recargadetallada._Tricom = _Leer("Tricom")
-                _Recargadetallada._Total = _Leer("Total")
-                
 
+                If _Leer("Agente") IsNot DBNull.Value Then
+                    _Recargadetallada._Agente = _Leer("Agente")
+                End If
 
+                If _Leer("Claro") IsNot DBNull.Value Then
+                    _Recargadetallada._Claro = _Leer("Claro")
+                End If
+
+                If _Leer("Dicitel") IsNot DBNull.Value Then
+                    _Recargadetallada._Digicel = _Leer("Dicitel")
+                End If
+
+                If _Leer("Gestor") IsNot DBNull.Value Then
+                    _Recargadetallada._Gestor = _Leer("Gestor")
+                End If
+
+                If _Leer("Nombre") IsNot DBNull.Value Then
+                    _Recargadetallada._Nombre = _Leer("Nombre")
+                End If
+
+                If _Leer("Orange") IsNot DBNull.Value Then
+                    _Recargadetallada._Orange = _Leer("Orange")
+                End If
+                If _Leer("Viva") IsNot DBNull.Value Then
+                    _Recargadetallada._Viva = _Leer("Viva")
+                End If
+
+                If _Leer("Tricom") IsNot DBNull.Value Then
+                    _Recargadetallada._Tricom = _Leer("Tricom")
+                End If
+                If _Leer("Total") IsNot DBNull.Value Then
+                    _Recargadetallada._Total = _Leer("Total")
+                End If
+                _Recargadetallada._FI = _FechaIncial
+                _Recargadetallada._FD = _FechaFinal
 
                 _ListaRecargDetalla.Add(_Recargadetallada)
 

@@ -4,7 +4,7 @@ Imports System.Data.SqlClient
 Public Class CCCReporteRecargaTrancciones
 
 
-    Inherits Conexion
+    Inherits Coneccion_Recarga
 
     Protected _Cmd As New SqlCommand
 
@@ -18,30 +18,47 @@ Public Class CCCReporteRecargaTrancciones
 
             Dim _ListaTran As New List(Of Ereporterecargatran)
 
-            _Cmd = New SqlCommand("REPORTE_RECARGAR_TRANSACCIONES")
+            _Cmd = New SqlCommand("REPORTE_RECARGA_TRANSACCIONES")
             _Cmd.CommandType = CommandType.StoredProcedure
             _Cmd.Connection = _cnn
 
 
             _Cmd.Parameters.Add("@FechaInicial", SqlDbType.VarChar, 50).Value = tranformaFecha(_FechaInicial)
             _Cmd.Parameters.Add("@FechaFinal", SqlDbType.VarChar, 50).Value = tranformaFecha(_FechaFinal)
-            _Cmd.Parameters.Add("@NumeroAgente", SqlDbType.VarChar, 20).Value = _Codigo
+            _Cmd.Parameters.Add("@CodigoAgente", SqlDbType.VarChar, 10).Value = _Codigo
 
             Dim _Leer As SqlDataReader = _Cmd.ExecuteReader
 
             While _Leer.Read
 
                 Dim _Entidad As New Ereporterecargatran
-                _Entidad._Agente = _Leer("AGENTE")
-                _Entidad._FechaS = _Leer("FECHA").ToString
-                _Entidad._Hora = _Leer("HORA").ToString
-                _Entidad._Monto = _Leer("MONTO")
-                _Entidad._Nombre = _Leer("NOMBRE")
-                _Entidad._Provedoor = _Leer("PROVEDOOR")
-                _Entidad._Serial = _Leer("SERIAL")
-                _Entidad._Telefono = _Leer("TELEFONO")
-                '_Entidad._FI = _FechaInicial
-                '_Entidad._FD = _FechaFinal
+                If _Leer("agente") IsNot DBNull.Value Then
+                    _Entidad._Agente = _Leer("agente")
+                End If
+
+                If _Leer("fecha") IsNot DBNull.Value Then
+                    _Entidad._FechaS = _Leer("fecha")
+                End If
+
+                _Entidad._Hora = _Leer("hora").ToString
+
+                _Entidad._Monto = _Leer("Monto")
+
+                If _Leer("nombre") IsNot DBNull.Value Then
+                    _Entidad._Nombre = _Leer("nombre")
+                End If
+                If _Leer("PROVEEDOR") IsNot DBNull.Value Then
+                    _Entidad._Provedoor = _Leer("PROVEEDOR")
+                End If
+
+                If _Leer("transacion") IsNot DBNull.Value Then
+                    _Entidad._Serial = _Leer("transacion")
+                End If
+                If _Leer("telefono") IsNot DBNull.Value Then
+                    _Entidad._Telefono = _Leer("telefono")
+                End If
+                _Entidad._FI = _FechaInicial
+                _Entidad._FD = _FechaFinal
 
                 _ListaTran.Add(_Entidad)
 
@@ -52,7 +69,7 @@ Public Class CCCReporteRecargaTrancciones
 
 
             _Leer.Close()
-            Desconetado()
+            desconectarme()
             Return _ListaTran
 
 

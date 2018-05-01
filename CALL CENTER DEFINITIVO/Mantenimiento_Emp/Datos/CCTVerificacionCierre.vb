@@ -8,7 +8,7 @@ Public Class CCTVerificacionCierre
     Protected _Cmd As New SqlCommand
 
 
-    'ss'
+
     Public Function verificacionCierreCCT(_ver As Integer) As DataTable
         Try
             Conectado()

@@ -95,7 +95,7 @@ Public Class Principal
         Global.System.Windows.Forms.Application.Exit()
     End Sub
     Private Sub Principal_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'privilegioUsuario()
+        privilegioUsuario()
 
 
     End Sub
@@ -117,7 +117,7 @@ Public Class Principal
     End Sub
 
     Private Sub MantComponentesCaracteristicasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MantComponentesCaracteristicasToolStripMenuItem.Click
-        
+
 
 
     End Sub
@@ -135,8 +135,8 @@ Public Class Principal
     End Sub
 
     Private Sub AdministracionToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AdministracionToolStripMenuItem.Click
-        
-       
+
+
 
     End Sub
 
@@ -189,7 +189,8 @@ Public Class Principal
             FileMenu.Visible = False 'Menu de Call Center Cobros
             mnu_Form7.Visible = False 'Mantemientos de 4 pasos Componentes
             MantComponentesCaracteristicasToolStripMenuItem.Visible = False 'Mantenimiento componentes y caracteristicas
-
+            RepctToolStripMenuItem.Visible = False
+            ActualizarBalanceToolStripMenuItem.Visible = False
         End If
         If Login.nivel = 1 Then
             'Gestor Cobros'
@@ -248,6 +249,7 @@ Public Class Principal
             AdministracionToolStripMenuItem.Visible = True 'Menu principal Administracion contiene
             ' Propecciones y Empleados Call Center Tecnico
             SeguridadMenuToolStripMenuItem.Visible = True 'Menu de Soporte de Call Center Tecnicos
+            RepctToolStripMenuItem.Visible = True
         End If
     End Sub
 
@@ -272,11 +274,13 @@ Public Class Principal
         ReproteComisionesForm.Show()
     End Sub
 
-    Private Sub ReporteCxcToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteCxcToolStripMenuItem.Click
-        ProcesoCXC.Show()
+    Private Sub ReporteDeRecargasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteDeRecargasToolStripMenuItem.Click
+        Dim _Mostrar As New FRMReporte_Recarga
+        _Mostrar.Show()
     End Sub
 
-    Private Sub ReporteContabilidadToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteContabilidadToolStripMenuItem.Click
-        ANTIGUEDAD_GESTOR_CONTABILIDAD_FORM.Show()
+    Private Sub ReporteDeLlamadasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteDeLlamadasToolStripMenuItem.Click
+        Dim _Mostrar As New frmReporte_Loteria
+        _Mostrar.Show()
     End Sub
 End Class
