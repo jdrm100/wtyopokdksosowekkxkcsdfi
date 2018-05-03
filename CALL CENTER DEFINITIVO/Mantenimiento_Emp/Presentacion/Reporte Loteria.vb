@@ -5,7 +5,7 @@
     End Sub
 
 
-
+    'edtydtt
     Sub reporteLotNumeroJug()
         If Me.ValidateChildren = True And txt_agente.Text <> "" And Val(txt_agente.Text) - Int(Val(txt_agente.Text)) = 0 Then
             Try
