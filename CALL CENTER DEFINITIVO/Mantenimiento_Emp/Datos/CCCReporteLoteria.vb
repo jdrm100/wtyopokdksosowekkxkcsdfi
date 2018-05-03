@@ -8,7 +8,7 @@ Public Class CCCReporteLoteria
 
 
 
-    'jdfjhfhkf
+    'jdfjhfhkfdroga
     Public Function reporteLoteria(juego As String, _FechaInicial As Date, _FechaFinal As Date, _Agente As String) As List(Of EReporteLoteria)
 
         'cual es lo que te falta? el procedimento dinamico cuando elija una lotoria el comboz aparesca el resultado
