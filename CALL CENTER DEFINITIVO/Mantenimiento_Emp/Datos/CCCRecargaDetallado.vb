@@ -15,6 +15,7 @@ Public Class CCCRecargaDetallado
 
             _Cmd = New SqlCommand("REPORTE_RECARGA_DETALLADO")
             _Cmd.CommandType = CommandType.StoredProcedure
+            _Cmd.CommandTimeout = 120000
             _Cmd.Connection = _cnn
 
             _Cmd.Parameters.Add("@FechaInicial", SqlDbType.VarChar, 50).Value = tranformarFecha(_FechaIncial)

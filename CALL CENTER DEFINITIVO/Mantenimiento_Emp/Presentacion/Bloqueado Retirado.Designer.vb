@@ -92,7 +92,7 @@ Partial Class Bloqueado_Retirado
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Label3.ForeColor = System.Drawing.Color.Yellow
         Me.Label3.Location = New System.Drawing.Point(238, 18)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(194, 13)
@@ -181,6 +181,7 @@ Partial Class Bloqueado_Retirado
         Me.Controls.Add(Me.btn_imprimir)
         Me.Controls.Add(Me.GroupBox1)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.MaximizeBox = False
         Me.Name = "Bloqueado_Retirado"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Agentes Bloqueados & Retirados"

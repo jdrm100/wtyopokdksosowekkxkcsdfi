@@ -9,8 +9,9 @@ Public Class CCTAgenteSinVENTA
         Try
             Conetado()
             'Dim age_list As New List(Of agente)
-            _cmd = New SqlCommand("CCT_AGENTE_SIN_VENTA")
+            _cmd = New SqlCommand("[CCT_AGENTE_SIN_VENTA]")
             _cmd.CommandType = CommandType.StoredProcedure
+            _cmd.CommandTimeout = 120000
             _cmd.Connection = _ccn
 
             _cmd.Parameters.Add("@Usuario", SqlDbType.Int).Value = _Usuario

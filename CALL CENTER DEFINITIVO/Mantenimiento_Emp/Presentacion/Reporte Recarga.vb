@@ -135,4 +135,8 @@
     Private Sub rd_transacciones_CheckedChanged(sender As Object, e As EventArgs) Handles rd_transacciones.CheckedChanged
 
     End Sub
+
+    Private Sub rd_detalla_CheckedChanged(sender As Object, e As EventArgs) Handles rd_detalla.CheckedChanged
+
+    End Sub
 End Class

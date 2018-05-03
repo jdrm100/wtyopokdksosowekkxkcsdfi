@@ -14,7 +14,7 @@ Public Class CccReporteRecargaResumido
 
             _Cmd = New SqlCommand("REPORTE_RECARGA_RESUMIDO")
             _Cmd.CommandType = CommandType.StoredProcedure
-            _Cmd.CommandTimeout = 12000
+            _Cmd.CommandTimeout = 120000
             _Cmd.Connection = _cnn
 
             _Cmd.Parameters.Add("@FechaInicial", SqlDbType.VarChar, 50).Value = tranformarFecha(_FechaInicial)

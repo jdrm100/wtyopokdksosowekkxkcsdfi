@@ -226,3 +226,17 @@ C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEF
 C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
 C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
 C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll.config
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.pdb
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Core.xml
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\NHibernate.JetDriver.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\bin\Debug\log4net.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Resources.resources
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
+C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb

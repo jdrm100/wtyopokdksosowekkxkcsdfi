@@ -24,8 +24,8 @@ Partial Class cc_tecnico
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(cc_tecnico))
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.TT1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.cmb_icon = New System.Windows.Forms.ComboBox()
         Me.cmb_tip = New System.Windows.Forms.ComboBox()
@@ -300,13 +300,14 @@ Partial Class cc_tecnico
         '
         'cmb_filtro
         '
-        Me.cmb_filtro.BackColor = System.Drawing.Color.White
+        Me.cmb_filtro.BackColor = System.Drawing.Color.Azure
         Me.cmb_filtro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cmb_filtro.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmb_filtro.FormattingEnabled = True
         Me.cmb_filtro.Items.AddRange(New Object() {"", "Sin venta", "Tickets abiertos", "Verificar cierre", "Agenda"})
         Me.cmb_filtro.Location = New System.Drawing.Point(6, 14)
         Me.cmb_filtro.Name = "cmb_filtro"
-        Me.cmb_filtro.Size = New System.Drawing.Size(114, 21)
+        Me.cmb_filtro.Size = New System.Drawing.Size(132, 24)
         Me.cmb_filtro.TabIndex = 41
         Me.TT1.SetToolTip(Me.cmb_filtro, "Filtra por registro de llamadas")
         '
@@ -1448,17 +1449,17 @@ Partial Class cc_tecnico
         Me.dgv_hist.MultiSelect = False
         Me.dgv_hist.Name = "dgv_hist"
         Me.dgv_hist.ReadOnly = True
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_hist.RowHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_hist.RowHeadersDefaultCellStyle = DataGridViewCellStyle5
         Me.dgv_hist.RowHeadersVisible = False
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dgv_hist.RowsDefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dgv_hist.RowsDefaultCellStyle = DataGridViewCellStyle6
         Me.dgv_hist.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgv_hist.Size = New System.Drawing.Size(709, 169)
         Me.dgv_hist.TabIndex = 2

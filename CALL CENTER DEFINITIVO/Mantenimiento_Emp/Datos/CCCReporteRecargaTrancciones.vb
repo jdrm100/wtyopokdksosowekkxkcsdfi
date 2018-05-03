@@ -20,6 +20,7 @@ Public Class CCCReporteRecargaTrancciones
 
             _Cmd = New SqlCommand("REPORTE_RECARGA_TRANSACCIONES")
             _Cmd.CommandType = CommandType.StoredProcedure
+            _Cmd.CommandTimeout = 120000
             _Cmd.Connection = _cnn
 
 

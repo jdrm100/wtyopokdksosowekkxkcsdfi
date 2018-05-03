@@ -86,7 +86,7 @@ Partial Class frmReporte_Loteria
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(9, 120)
+        Me.Label4.Location = New System.Drawing.Point(15, 120)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(57, 15)
         Me.Label4.TabIndex = 6
@@ -104,7 +104,7 @@ Partial Class frmReporte_Loteria
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(11, 26)
+        Me.Label3.Location = New System.Drawing.Point(11, 25)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(55, 15)
         Me.Label3.TabIndex = 4
@@ -131,7 +131,7 @@ Partial Class frmReporte_Loteria
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(9, 89)
+        Me.Label2.Location = New System.Drawing.Point(9, 85)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(86, 15)
         Me.Label2.TabIndex = 1
@@ -142,7 +142,7 @@ Partial Class frmReporte_Loteria
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(9, 54)
+        Me.Label1.Location = New System.Drawing.Point(9, 52)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(93, 15)
         Me.Label1.TabIndex = 0
