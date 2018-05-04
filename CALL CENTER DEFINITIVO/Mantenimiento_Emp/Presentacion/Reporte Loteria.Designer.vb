@@ -64,6 +64,8 @@ Partial Class frmReporte_Loteria
         'chk_todos
         '
         Me.chk_todos.AutoSize = True
+        Me.chk_todos.Checked = True
+        Me.chk_todos.CheckState = System.Windows.Forms.CheckState.Checked
         Me.chk_todos.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.chk_todos.ForeColor = System.Drawing.Color.Black
         Me.chk_todos.Location = New System.Drawing.Point(304, 118)
