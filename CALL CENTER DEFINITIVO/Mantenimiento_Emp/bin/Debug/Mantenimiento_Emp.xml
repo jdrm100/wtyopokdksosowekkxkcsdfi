@@ -6,39 +6,7 @@ Mantenimiento_Emp
 </name>
 </assembly>
 <members>
-<member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:ReporteRecargarResumido">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:ReporteRecargarDetallada">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:Reporte_Bloqueo.Reporte_de_BloqueoDataTable">
+<member name="T:Reporte_Bloqueo.Reporte_de_BloqueoDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
@@ -103,38 +71,6 @@ Row event argument class
 Row event argument class
 </summary>
 </member><member name="T:AntiguedaddeSaldo">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:ReporteRecargaTran">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:REPOLOTNUMERJUGADO">
 	<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
@@ -558,6 +494,70 @@ Represents a strongly typed in-memory cache of data.
 </member><member name="T:My.Resources.Resources">
 	<summary>
   Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ReporteRecargarResumido.Reporte_Recargar_ResumidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ReporteRecargarResumido">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ReporteRecargaTran.Reporte_Recarga_TransaccioneRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ReporteRecargaTran">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:REPOLOTNUMERJUGADO.ReporLotNumeJugRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:REPOLOTNUMERJUGADO">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ReporteRecargarDetallada.Reporte_de_Recargar_DetalladaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ReporteRecargarDetallada">
+	<summary>
+Represents a strongly typed in-memory cache of data.
 </summary>
 </member>
 </members>
