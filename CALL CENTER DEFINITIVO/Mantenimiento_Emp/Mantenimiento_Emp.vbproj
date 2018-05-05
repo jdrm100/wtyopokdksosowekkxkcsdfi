@@ -478,10 +478,10 @@
     <Compile Include="Presentacion\Reporte de Antiguedad.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Reporte Loteria.Designer.vb">
-      <DependentUpon>Reporte Loteria.vb</DependentUpon>
+    <Compile Include="Presentacion\ReporteLoteria.Designer.vb">
+      <DependentUpon>ReporteLoteria.vb</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\Reporte Loteria.vb">
+    <Compile Include="Presentacion\ReporteLoteria.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Presentacion\Reporte Recarga.Designer.vb">
@@ -829,8 +829,8 @@
     <EmbeddedResource Include="Presentacion\Reporte de Antiguedad.resx">
       <DependentUpon>Reporte de Antiguedad.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\Reporte Loteria.resx">
-      <DependentUpon>Reporte Loteria.vb</DependentUpon>
+    <EmbeddedResource Include="Presentacion\ReporteLoteria.resx">
+      <DependentUpon>ReporteLoteria.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Reporte Recarga.resx">
       <DependentUpon>Reporte Recarga.vb</DependentUpon>

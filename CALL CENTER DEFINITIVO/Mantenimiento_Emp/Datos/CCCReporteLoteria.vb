@@ -9,8 +9,9 @@ Public Class CCCReporteLoteria
 
 
     'jdfjhfhkfdroga
+ 
     Public Function reporteLoteria(_FechaInicial As Date, _FechaFinal As Date, _Agente As String, juego As String, _todos As String) As List(Of EReporteLoteria)
-
+ 
         'cual es lo que te falta? el procedimento dinamico cuando elija una lotoria el comboz aparesca el resultado
         Conectado()
         Dim _ListaLotoria As New List(Of EReporteLoteria)
@@ -19,11 +20,14 @@ Public Class CCCReporteLoteria
         _Cmd.CommandType = CommandType.StoredProcedure
         _Cmd.CommandTimeout = 120000
         _Cmd.Connection = _cnn
+  
         _Cmd.Parameters.Add("@loteria", SqlDbType.VarChar, 20).Value = juego
         _Cmd.Parameters.Add("@FechaInicial", SqlDbType.VarChar, 20).Value = tranformarFecha(_FechaInicial)
         _Cmd.Parameters.Add("@FechaFinal", SqlDbType.VarChar, 20).Value = tranformarFecha(_FechaFinal)
         _Cmd.Parameters.Add("@CodigoAgente", SqlDbType.VarChar, 50).Value = _Agente
+ 
         _Cmd.Parameters.Add("@Todos", SqlDbType.VarChar, 50).Value = _todos
+
         '_Cmd.Parameters.Add("@descripcion", SqlDbType.VarChar, 10).Value = _Codigo
 
         Dim _Leer As SqlDataReader = _Cmd.ExecuteReader

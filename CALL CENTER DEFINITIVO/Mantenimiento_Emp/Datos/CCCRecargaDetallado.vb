@@ -7,6 +7,7 @@ Public Class CCCRecargaDetallado
     Dim _Mostar As String
 
 
+
     Public Function recargarDetallada(_FechaIncial As Date, _FechaFinal As Date, _Codigo As Integer)
 
         Try
@@ -89,6 +90,19 @@ Public Class CCCRecargaDetallado
 
 
     End Function
+
+    Public Function CargarProveedor() As DataTable
+
+        Conectado()
+        Dim DA As New SqlDataAdapter
+        Dim DT As New DataTable
+        DA = New SqlDataAdapter(" Select descripcion as d , codigojuego  from juegos A where a.codigo in(49) ", _cnn)
+        DA.Fill(DT)
+        Desconetado()
+        Return DT
+
+    End Function
+
 
     Public Function tranformarFecha(_Fecha As Date) As String
         Dim _Ano, _Mes, _Dia As String

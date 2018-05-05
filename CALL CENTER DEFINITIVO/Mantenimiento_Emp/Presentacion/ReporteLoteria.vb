@@ -11,21 +11,24 @@
             Try
                 If txt_agente.Text <> "" And Val(txt_agente.Text) - Int(Val(txt_agente.Text)) = 0 Then
                     Dim _Buscar As New CCCReporteLoteria
+ 
                     MsgBox(cbo_juegos.SelectedValue)
                     Dim _todos As String = "0"
                     If chk_todos.Checked = True Then
 
                         _todos = "1"
-                       
-                        End If
+
+                    End If
 
                     Dim _Lista As List(Of EReporteLoteria) = _Buscar.reporteLoteria(dtp_fechainicial.Value.Date, dtp_fechafinal.Value.Date, Convert.ToInt64(txt_agente.Text), cbo_juegos.SelectedValue, _todos)
+
 
                     Dim _Mostar As New Sistema_de_Facturacion_Reporte_de_Numero_Jugados(_Lista)
                     _Mostar.Show()
                 End If
             Catch ex As Exception
-                MessageBox.Show("Error al  llamar el Procedimiento,No se puede ingresar LETRAS", "Llamar los Metodos y Validar campos", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                MsgBox(ex.Message)
+                ' MessageBox.Show("Error al  llamar el Procedimiento,No se puede ingresar LETRAS" , "Llamar los Metodos y Validar campos", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End Try
         Else
             MessageBox.Show("Introduzca el numero del agente por favor,Este campo es obligatorio", "Campo Obligatorio", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -51,7 +54,7 @@
         cargarCombozLoteria()
     End Sub
 
-   
+
 
     Private Sub txt_agente_Validating(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles txt_agente.Validating
         Try
@@ -64,7 +67,7 @@
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try
-        
+
     End Sub
 
     Private Sub btn_salir_Click(sender As Object, e As EventArgs) Handles btn_salir.Click
@@ -83,4 +86,8 @@
         End If
 
     End Sub
+
+
+
+
 End Class

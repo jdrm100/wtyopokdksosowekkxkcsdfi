@@ -240,3 +240,4 @@ C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENT
 C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.dll
 C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.xml
 C:\Users\Ing Jose Olivo\Documents\Call Center\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.pdb
+C:\Users\David\Documents\lrc_callcenter\wtyopokdksosowekkxkcsdfi\CALL CENTER DEFINITIVO\Core\obj\Debug\Core.vbprojResolveAssemblyReference.cache

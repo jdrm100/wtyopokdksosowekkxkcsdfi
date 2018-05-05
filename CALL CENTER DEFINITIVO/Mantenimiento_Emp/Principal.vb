@@ -292,4 +292,8 @@ Public Class Principal
     Private Sub ReporteCxcToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteCxcToolStripMenuItem.Click
         ProcesoCXC.Show()
     End Sub
+
+    Private Sub ReporteDeLoteriaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ReporteDeLoteriaToolStripMenuItem.Click
+        frmReporte_Loteria.Show()
+    End Sub
 End Class
