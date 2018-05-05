@@ -11,20 +11,17 @@
             Try
                 If txt_agente.Text <> "" And Val(txt_agente.Text) - Int(Val(txt_agente.Text)) = 0 Then
                     Dim _Buscar As New CCCReporteLoteria
-<<<<<<< HEAD
-                    'MsgBox(cbo_juegos.SelectedValue)
-                    Dim _Lista As List(Of EReporteLoteria) = _Buscar.reporteLoteria(cbo_juegos.SelectedValue, dtp_fechainicial.Value.Date, dtp_fechafinal.Value.Date, Convert.ToInt64(txt_agente.Text))
-=======
+ 
                     MsgBox(cbo_juegos.SelectedValue)
                     Dim _todos As String = "0"
                     If chk_todos.Checked = True Then
 
                         _todos = "1"
-                       
-                        End If
+
+                    End If
 
                     Dim _Lista As List(Of EReporteLoteria) = _Buscar.reporteLoteria(dtp_fechainicial.Value.Date, dtp_fechafinal.Value.Date, Convert.ToInt64(txt_agente.Text), cbo_juegos.SelectedValue, _todos)
->>>>>>> 20f93adf530a4a6e45f2b14d42168018a33ba322
+
 
                     Dim _Mostar As New Sistema_de_Facturacion_Reporte_de_Numero_Jugados(_Lista)
                     _Mostar.Show()
@@ -89,4 +86,8 @@
         End If
 
     End Sub
+
+
+
+
 End Class

@@ -47,6 +47,8 @@ Partial Class Principal
         Me.ReporteDeLoteriaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ReporteDeRecargasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ReporteDeLlamadasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ReporteCxcToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ReporteContabilidadToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ActualizarBalanceToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStrip = New System.Windows.Forms.ToolStrip()
         Me.tsl_Form1 = New System.Windows.Forms.ToolStripLabel()
@@ -55,8 +57,6 @@ Partial Class Principal
         Me.StatusStrip = New System.Windows.Forms.StatusStrip()
         Me.tsl_estado = New System.Windows.Forms.ToolStripStatusLabel()
         Me.ToolTip = New System.Windows.Forms.ToolTip(Me.components)
-        Me.ReporteCxcToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ReporteContabilidadToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip.SuspendLayout()
         Me.ToolStrip.SuspendLayout()
         Me.StatusStrip.SuspendLayout()
@@ -236,6 +236,18 @@ Partial Class Principal
         Me.ReporteDeLlamadasToolStripMenuItem.Size = New System.Drawing.Size(306, 26)
         Me.ReporteDeLlamadasToolStripMenuItem.Text = "Reporte de llamadas"
         '
+        'ReporteCxcToolStripMenuItem
+        '
+        Me.ReporteCxcToolStripMenuItem.Name = "ReporteCxcToolStripMenuItem"
+        Me.ReporteCxcToolStripMenuItem.Size = New System.Drawing.Size(306, 26)
+        Me.ReporteCxcToolStripMenuItem.Text = "Reporte cxc"
+        '
+        'ReporteContabilidadToolStripMenuItem
+        '
+        Me.ReporteContabilidadToolStripMenuItem.Name = "ReporteContabilidadToolStripMenuItem"
+        Me.ReporteContabilidadToolStripMenuItem.Size = New System.Drawing.Size(306, 26)
+        Me.ReporteContabilidadToolStripMenuItem.Text = "Reporte Contabilidad"
+        '
         'ActualizarBalanceToolStripMenuItem
         '
         Me.ActualizarBalanceToolStripMenuItem.Name = "ActualizarBalanceToolStripMenuItem"
@@ -288,18 +300,6 @@ Partial Class Principal
         Me.tsl_estado.Size = New System.Drawing.Size(54, 20)
         Me.tsl_estado.Text = "Estado"
         '
-        'ReporteCxcToolStripMenuItem
-        '
-        Me.ReporteCxcToolStripMenuItem.Name = "ReporteCxcToolStripMenuItem"
-        Me.ReporteCxcToolStripMenuItem.Size = New System.Drawing.Size(306, 26)
-        Me.ReporteCxcToolStripMenuItem.Text = "Reporte cxc"
-        '
-        'ReporteContabilidadToolStripMenuItem
-        '
-        Me.ReporteContabilidadToolStripMenuItem.Name = "ReporteContabilidadToolStripMenuItem"
-        Me.ReporteContabilidadToolStripMenuItem.Size = New System.Drawing.Size(306, 26)
-        Me.ReporteContabilidadToolStripMenuItem.Text = "Reporte Contabilidad"
-        '
         'Principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -311,7 +311,7 @@ Partial Class Principal
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Principal"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "LOTO REAL"

@@ -103,11 +103,18 @@
     Private Sub Reporte_Recarga_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         mostrar()
         txt_agente.Select()
-
+        cargarCmbRecarga()
     End Sub
 
    
-  
+
+    Private Sub cargarCmbRecarga()
+        Dim _Buscar As New CCCRecargaDetallado
+        Dim lista As DataTable = _Buscar.CargarProveedor()
+        cbo_operadora.DataSource = lista
+        cbo_operadora.DisplayMember = "d"
+        cbo_operadora.ValueMember = "codigojuego"
+    End Sub
 
     Private Sub txt_agente_Validating(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles txt_agente.Validating
         Try

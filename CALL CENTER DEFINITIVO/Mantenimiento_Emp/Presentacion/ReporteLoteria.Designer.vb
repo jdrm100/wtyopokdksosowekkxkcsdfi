@@ -54,9 +54,11 @@ Partial Class frmReporte_Loteria
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox1.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox1.Location = New System.Drawing.Point(12, 12)
+        Me.GroupBox1.Location = New System.Drawing.Point(16, 15)
+        Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(528, 174)
+        Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.GroupBox1.Size = New System.Drawing.Size(704, 224)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Parámetro"
@@ -68,9 +70,10 @@ Partial Class frmReporte_Loteria
         Me.chk_todos.CheckState = System.Windows.Forms.CheckState.Checked
         Me.chk_todos.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.chk_todos.ForeColor = System.Drawing.Color.Black
-        Me.chk_todos.Location = New System.Drawing.Point(304, 118)
+        Me.chk_todos.Location = New System.Drawing.Point(405, 145)
+        Me.chk_todos.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.chk_todos.Name = "chk_todos"
-        Me.chk_todos.Size = New System.Drawing.Size(65, 19)
+        Me.chk_todos.Size = New System.Drawing.Size(78, 22)
         Me.chk_todos.TabIndex = 8
         Me.chk_todos.Text = "Todos"
         Me.chk_todos.UseVisualStyleBackColor = True
@@ -78,9 +81,10 @@ Partial Class frmReporte_Loteria
         'cbo_juegos
         '
         Me.cbo_juegos.FormattingEnabled = True
-        Me.cbo_juegos.Location = New System.Drawing.Point(101, 116)
+        Me.cbo_juegos.Location = New System.Drawing.Point(135, 143)
+        Me.cbo_juegos.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cbo_juegos.Name = "cbo_juegos"
-        Me.cbo_juegos.Size = New System.Drawing.Size(183, 24)
+        Me.cbo_juegos.Size = New System.Drawing.Size(243, 28)
         Me.cbo_juegos.TabIndex = 7
         '
         'Label4
@@ -88,17 +92,19 @@ Partial Class frmReporte_Loteria
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(15, 120)
+        Me.Label4.Location = New System.Drawing.Point(20, 148)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(57, 15)
+        Me.Label4.Size = New System.Drawing.Size(68, 18)
         Me.Label4.TabIndex = 6
         Me.Label4.Text = "Juegos:"
         '
         'txt_agente
         '
-        Me.txt_agente.Location = New System.Drawing.Point(101, 22)
+        Me.txt_agente.Location = New System.Drawing.Point(135, 27)
+        Me.txt_agente.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txt_agente.Name = "txt_agente"
-        Me.txt_agente.Size = New System.Drawing.Size(114, 22)
+        Me.txt_agente.Size = New System.Drawing.Size(151, 26)
         Me.txt_agente.TabIndex = 5
         '
         'Label3
@@ -106,26 +112,29 @@ Partial Class frmReporte_Loteria
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(11, 25)
+        Me.Label3.Location = New System.Drawing.Point(15, 31)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(55, 15)
+        Me.Label3.Size = New System.Drawing.Size(64, 18)
         Me.Label3.TabIndex = 4
         Me.Label3.Text = "Agente:"
         '
         'dtp_fechafinal
         '
         Me.dtp_fechafinal.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtp_fechafinal.Location = New System.Drawing.Point(101, 83)
+        Me.dtp_fechafinal.Location = New System.Drawing.Point(135, 102)
+        Me.dtp_fechafinal.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.dtp_fechafinal.Name = "dtp_fechafinal"
-        Me.dtp_fechafinal.Size = New System.Drawing.Size(114, 22)
+        Me.dtp_fechafinal.Size = New System.Drawing.Size(151, 26)
         Me.dtp_fechafinal.TabIndex = 3
         '
         'dtp_fechainicial
         '
         Me.dtp_fechainicial.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtp_fechainicial.Location = New System.Drawing.Point(101, 50)
+        Me.dtp_fechainicial.Location = New System.Drawing.Point(135, 62)
+        Me.dtp_fechainicial.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.dtp_fechainicial.Name = "dtp_fechainicial"
-        Me.dtp_fechainicial.Size = New System.Drawing.Size(114, 22)
+        Me.dtp_fechainicial.Size = New System.Drawing.Size(151, 26)
         Me.dtp_fechainicial.TabIndex = 2
         '
         'Label2
@@ -133,9 +142,10 @@ Partial Class frmReporte_Loteria
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(9, 85)
+        Me.Label2.Location = New System.Drawing.Point(12, 105)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(86, 15)
+        Me.Label2.Size = New System.Drawing.Size(100, 18)
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "Fecha Final:"
         '
@@ -144,9 +154,10 @@ Partial Class frmReporte_Loteria
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(9, 52)
+        Me.Label1.Location = New System.Drawing.Point(12, 64)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(93, 15)
+        Me.Label1.Size = New System.Drawing.Size(107, 18)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Fecha Inicial:"
         '
@@ -156,9 +167,10 @@ Partial Class frmReporte_Loteria
         Me.btn_salir.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn_salir.Image = Global.My.Resources.Resources.Cancel_Red_Button
         Me.btn_salir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_salir.Location = New System.Drawing.Point(138, 192)
+        Me.btn_salir.Location = New System.Drawing.Point(184, 311)
+        Me.btn_salir.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btn_salir.Name = "btn_salir"
-        Me.btn_salir.Size = New System.Drawing.Size(120, 42)
+        Me.btn_salir.Size = New System.Drawing.Size(160, 52)
         Me.btn_salir.TabIndex = 10
         Me.btn_salir.Text = "Salir"
         Me.btn_salir.TextAlign = System.Drawing.ContentAlignment.MiddleRight
@@ -170,9 +182,10 @@ Partial Class frmReporte_Loteria
         Me.btn_imprimir.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn_imprimir.Image = Global.My.Resources.Resources.if_Printer_71593
         Me.btn_imprimir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_imprimir.Location = New System.Drawing.Point(12, 192)
+        Me.btn_imprimir.Location = New System.Drawing.Point(16, 311)
+        Me.btn_imprimir.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btn_imprimir.Name = "btn_imprimir"
-        Me.btn_imprimir.Size = New System.Drawing.Size(120, 42)
+        Me.btn_imprimir.Size = New System.Drawing.Size(160, 52)
         Me.btn_imprimir.TabIndex = 9
         Me.btn_imprimir.Text = "Imprimir"
         Me.btn_imprimir.TextAlign = System.Drawing.ContentAlignment.MiddleRight
@@ -184,13 +197,14 @@ Partial Class frmReporte_Loteria
         '
         'frmReporte_Loteria
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.ClientSize = New System.Drawing.Size(552, 245)
+        Me.ClientSize = New System.Drawing.Size(736, 394)
         Me.Controls.Add(Me.btn_salir)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.btn_imprimir)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaximizeBox = False
         Me.Name = "frmReporte_Loteria"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
