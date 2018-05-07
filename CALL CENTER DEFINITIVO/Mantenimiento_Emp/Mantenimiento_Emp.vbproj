@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{FCC0509B-82BD-41A8-82B1-66992A876C22}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>My.MyApplication</StartupObject>
+    <StartupObject>frmReporte_Loteria</StartupObject>
     <RootNamespace>
     </RootNamespace>
     <AssemblyName>Mantenimiento_Emp</AssemblyName>
