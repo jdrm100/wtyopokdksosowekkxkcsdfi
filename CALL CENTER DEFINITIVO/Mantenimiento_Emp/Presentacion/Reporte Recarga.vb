@@ -98,12 +98,28 @@
     'End Sub
 
 
-    Private Sub Reporte_Recarga_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'mostrar()
-        txt_agente.Select()
-        cargarCmbRecarga()
-    End Sub
+    '    Private Sub Reporte_Recarga_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    '        'mostrar()
+    '        txt_agente.Select()
+    '        cargarCmbRecarga()
+    '    End Sub
 
+<<<<<<< HEAD
+    '<<<<<<< HEAD
+
+
+    '=======
+
+
+    '    Private Sub cargarCmbRecarga()
+    '        Dim _Buscar As New CCCRecargaDetallado
+    '        Dim lista As DataTable = _Buscar.CargarProveedor()
+    '        cbo_operadora.DataSource = lista
+    '        cbo_operadora.DisplayMember = "d"
+    '        cbo_operadora.ValueMember = "codigojuego"
+    '    End Sub
+    '>>>>>>> fba4313757a01fbcfa618eb7d27c660b135ca147
+=======
 
 
 
@@ -117,6 +133,7 @@
         cbo_operadora.ValueMember = "codigojuego"
     End Sub
 
+>>>>>>> 20bb5bce5300bece0528d56bd4b9ef558bf253cf
 
     Private Sub txt_agente_Validating(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles txt_agente.Validating
         Try
