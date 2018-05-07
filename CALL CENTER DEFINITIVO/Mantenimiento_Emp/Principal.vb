@@ -7,7 +7,7 @@ Public Class Principal
     Dim nomusu As String
     Dim nivel As String
 
-    'wwwwwww'
+    'wwwwwwwddf'
 
     Private Sub show_mnu_Reg01(ByVal sender As Object, ByVal e As EventArgs) Handles mnu_Reg01.Click
         Try

@@ -20,42 +20,19 @@ Namespace My
     ' Explorador de soluciones) y realice cambios en la pestaña Aplicación.
     '
     Partial Friend Class MyApplication
-<<<<<<< HEAD
-
-
-        Public Sub New()
-            MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
-=======
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Public Sub New()
-<<<<<<< HEAD
             MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
-=======
-            MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.ApplicationDefined)
-<<<<<<< HEAD
->>>>>>> 2444c5c2d7b1c28103b4dd2f31751c74767258a6
-=======
->>>>>>> 20bb5bce5300bece0528d56bd4b9ef558bf253cf
->>>>>>> ad8b25ce9cf60b5d87b54d8f190ed4f2cf34195b
             Me.IsSingleInstance = False
             Me.EnableVisualStyles = True
             Me.SaveMySettingsOnExit = True
             Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
         End Sub
-<<<<<<< HEAD
-
-
-        Protected Overrides Sub OnCreateMainForm()
-
-            Me.MainForm = Global.Login
-
-=======
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
             Me.MainForm = Global.Login
->>>>>>> 2444c5c2d7b1c28103b4dd2f31751c74767258a6
         End Sub
     End Class
 End Namespace

@@ -7,11 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{FCC0509B-82BD-41A8-82B1-66992A876C22}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-<<<<<<< HEAD
-    <StartupObject>Login</StartupObject>
-=======
-    <StartupObject>frmReporte_Loteria</StartupObject>
->>>>>>> 20bb5bce5300bece0528d56bd4b9ef558bf253cf
+    <StartupObject>My.MyApplication</StartupObject>
     <RootNamespace>
     </RootNamespace>
     <AssemblyName>Mantenimiento_Emp</AssemblyName>
@@ -458,12 +454,6 @@
     <Compile Include="Presentacion\Form1.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Form5.Designer.vb">
-      <DependentUpon>Form5.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Presentacion\Form5.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Presentacion\ProcesoCXC.Designer.vb">
       <DependentUpon>ProcesoCXC.vb</DependentUpon>
     </Compile>
@@ -482,10 +472,10 @@
     <Compile Include="Presentacion\Reporte de Antiguedad.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\ReporteLoteria.Designer.vb">
-      <DependentUpon>ReporteLoteria.vb</DependentUpon>
+    <Compile Include="Presentacion\Reporte Loteria.Designer.vb">
+      <DependentUpon>Reporte Loteria.vb</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\ReporteLoteria.vb">
+    <Compile Include="Presentacion\Reporte Loteria.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Presentacion\Reporte Recarga.Designer.vb">
@@ -630,12 +620,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Retirado.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reporte\Retiro.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Retiro.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Seguridad\Form1.vb">
@@ -821,9 +805,6 @@
     <EmbeddedResource Include="Presentacion\Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\Form5.resx">
-      <DependentUpon>Form5.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\ProcesoCXC.resx">
       <DependentUpon>ProcesoCXC.vb</DependentUpon>
     </EmbeddedResource>
@@ -833,8 +814,8 @@
     <EmbeddedResource Include="Presentacion\Reporte de Antiguedad.resx">
       <DependentUpon>Reporte de Antiguedad.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\ReporteLoteria.resx">
-      <DependentUpon>ReporteLoteria.vb</DependentUpon>
+    <EmbeddedResource Include="Presentacion\Reporte Loteria.resx">
+      <DependentUpon>Reporte Loteria.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Reporte Recarga.resx">
       <DependentUpon>Reporte Recarga.vb</DependentUpon>
@@ -922,10 +903,6 @@
     <EmbeddedResource Include="Reporte\Retirado.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>Retirado.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reporte\Retiro.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Retiro.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Seguridad\Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
