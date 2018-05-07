@@ -10,3 +10,8 @@ CALL CENTER DEFINITIVO/Core/bin/Debug/Core.dll
 CALL CENTER DEFINITIVO/Mantenimiento_Empleados.v12.suo
 CALL CENTER DEFINITIVO/Mantenimiento_Emp/Reporte/Retirado.rpt
 CALL CENTER DEFINITIVO/Mantenimiento_Empleados.v12.suo
+*.dll
+*.vbproj
+CALL CENTER DEFINITIVO/Data/bin/Debug/Data.dll
+*.pdb
+CALL CENTER DEFINITIVO/Data/bin/Debug/Data.dll
