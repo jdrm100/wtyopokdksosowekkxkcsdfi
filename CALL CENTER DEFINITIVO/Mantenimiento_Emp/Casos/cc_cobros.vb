@@ -56,6 +56,7 @@ Public Class cc_cobros
         End If
     End Sub
     Private Sub cc_tecnico_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'fgf
         Try
 
             fac_cct = New NHibernateDaoFactory

@@ -7,7 +7,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{FCC0509B-82BD-41A8-82B1-66992A876C22}</ProjectGuid>
     <OutputType>WinExe</OutputType>
+<<<<<<< HEAD
     <StartupObject>Login</StartupObject>
+=======
+    <StartupObject>frmReporte_Loteria</StartupObject>
+>>>>>>> 20bb5bce5300bece0528d56bd4b9ef558bf253cf
     <RootNamespace>
     </RootNamespace>
     <AssemblyName>Mantenimiento_Emp</AssemblyName>
