@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MySubMain>true</MySubMain>
+<<<<<<< HEAD
+  <MainForm>FRMReporte_Recarga</MainForm>
+=======
   <MainForm>Login</MainForm>
+>>>>>>> fba4313757a01fbcfa618eb7d27c660b135ca147
   <SingleInstance>false</SingleInstance>
   <ShutdownMode>0</ShutdownMode>
   <EnableVisualStyles>true</EnableVisualStyles>
