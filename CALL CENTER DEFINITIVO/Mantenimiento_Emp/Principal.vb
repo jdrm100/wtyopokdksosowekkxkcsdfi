@@ -7,7 +7,7 @@ Public Class Principal
     Dim nomusu As String
     Dim nivel As String
 
-    '111111'
+    '251515sd'
 
     Private Sub show_mnu_Reg01(ByVal sender As Object, ByVal e As EventArgs) Handles mnu_Reg01.Click
         Try
