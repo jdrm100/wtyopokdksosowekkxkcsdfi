@@ -21,22 +21,20 @@ Namespace My
     '
     Partial Friend Class MyApplication
         
-        <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
+
         Public Sub New()
             MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
-            Me.IsSingleInstance = false
-            Me.EnableVisualStyles = true
-            Me.SaveMySettingsOnExit = true
+            Me.IsSingleInstance = False
+            Me.EnableVisualStyles = True
+            Me.SaveMySettingsOnExit = True
             Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
         End Sub
         
-        <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
+
         Protected Overrides Sub OnCreateMainForm()
-<<<<<<< HEAD
-            Me.MainForm = Global.FRMReporte_Recarga
-=======
+
             Me.MainForm = Global.Login
->>>>>>> fba4313757a01fbcfa618eb7d27c660b135ca147
+
         End Sub
     End Class
 End Namespace
