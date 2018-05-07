@@ -50,6 +50,7 @@ Partial Class Principal
         Me.ReporteCxcToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ReporteContabilidadToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ActualizarBalanceToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.FccccToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStrip = New System.Windows.Forms.ToolStrip()
         Me.tsl_Form1 = New System.Windows.Forms.ToolStripLabel()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
@@ -57,7 +58,6 @@ Partial Class Principal
         Me.StatusStrip = New System.Windows.Forms.StatusStrip()
         Me.tsl_estado = New System.Windows.Forms.ToolStripStatusLabel()
         Me.ToolTip = New System.Windows.Forms.ToolTip(Me.components)
-        Me.FccccToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip.SuspendLayout()
         Me.ToolStrip.SuspendLayout()
         Me.StatusStrip.SuspendLayout()
@@ -255,6 +255,12 @@ Partial Class Principal
         Me.ActualizarBalanceToolStripMenuItem.Size = New System.Drawing.Size(143, 24)
         Me.ActualizarBalanceToolStripMenuItem.Text = "Actualizar balance"
         '
+        'FccccToolStripMenuItem
+        '
+        Me.FccccToolStripMenuItem.Name = "FccccToolStripMenuItem"
+        Me.FccccToolStripMenuItem.Size = New System.Drawing.Size(71, 24)
+        Me.FccccToolStripMenuItem.Text = "qgfdgg"
+        '
         'ToolStrip
         '
         Me.ToolStrip.ImageScalingSize = New System.Drawing.Size(20, 20)
@@ -300,12 +306,6 @@ Partial Class Principal
         Me.tsl_estado.Name = "tsl_estado"
         Me.tsl_estado.Size = New System.Drawing.Size(54, 20)
         Me.tsl_estado.Text = "Estado"
-        '
-        'FccccToolStripMenuItem
-        '
-        Me.FccccToolStripMenuItem.Name = "FccccToolStripMenuItem"
-        Me.FccccToolStripMenuItem.Size = New System.Drawing.Size(54, 24)
-        Me.FccccToolStripMenuItem.Text = "fcccc"
         '
         'Principal
         '
