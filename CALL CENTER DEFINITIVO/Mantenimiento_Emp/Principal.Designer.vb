@@ -57,6 +57,7 @@ Partial Class Principal
         Me.StatusStrip = New System.Windows.Forms.StatusStrip()
         Me.tsl_estado = New System.Windows.Forms.ToolStripStatusLabel()
         Me.ToolTip = New System.Windows.Forms.ToolTip(Me.components)
+        Me.FccccToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip.SuspendLayout()
         Me.ToolStrip.SuspendLayout()
         Me.StatusStrip.SuspendLayout()
@@ -65,7 +66,7 @@ Partial Class Principal
         'MenuStrip
         '
         Me.MenuStrip.ImageScalingSize = New System.Drawing.Size(20, 20)
-        Me.MenuStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileMenu, Me.SeguridadMenuToolStripMenuItem, Me.AdministracionToolStripMenuItem, Me.RepctToolStripMenuItem, Me.ActualizarBalanceToolStripMenuItem})
+        Me.MenuStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileMenu, Me.SeguridadMenuToolStripMenuItem, Me.AdministracionToolStripMenuItem, Me.RepctToolStripMenuItem, Me.ActualizarBalanceToolStripMenuItem, Me.FccccToolStripMenuItem})
         Me.MenuStrip.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip.Name = "MenuStrip"
         Me.MenuStrip.Padding = New System.Windows.Forms.Padding(8, 2, 0, 2)
@@ -300,6 +301,12 @@ Partial Class Principal
         Me.tsl_estado.Size = New System.Drawing.Size(54, 20)
         Me.tsl_estado.Text = "Estado"
         '
+        'FccccToolStripMenuItem
+        '
+        Me.FccccToolStripMenuItem.Name = "FccccToolStripMenuItem"
+        Me.FccccToolStripMenuItem.Size = New System.Drawing.Size(54, 24)
+        Me.FccccToolStripMenuItem.Text = "fcccc"
+        '
         'Principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -361,5 +368,6 @@ Partial Class Principal
     Friend WithEvents ActualizarBalanceToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ReporteCxcToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ReporteContabilidadToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents FccccToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
