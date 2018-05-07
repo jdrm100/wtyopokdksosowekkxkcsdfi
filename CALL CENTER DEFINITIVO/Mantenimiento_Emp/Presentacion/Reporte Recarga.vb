@@ -104,11 +104,10 @@
         cargarCmbRecarga()
     End Sub
 
-<<<<<<< HEAD
 
 
-=======
-   
+
+
 
     Private Sub cargarCmbRecarga()
         Dim _Buscar As New CCCRecargaDetallado
@@ -117,7 +116,7 @@
         cbo_operadora.DisplayMember = "d"
         cbo_operadora.ValueMember = "codigojuego"
     End Sub
->>>>>>> fba4313757a01fbcfa618eb7d27c660b135ca147
+
 
     Private Sub txt_agente_Validating(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles txt_agente.Validating
         Try
