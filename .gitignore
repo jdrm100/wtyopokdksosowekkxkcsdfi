@@ -9,9 +9,20 @@ CALL CENTER DEFINITIVO/Core/bin/Debug/Core.dll
 *.cache
 CALL CENTER DEFINITIVO/Mantenimiento_Empleados.v12.suo
 CALL CENTER DEFINITIVO/Mantenimiento_Emp/Reporte/Retirado.rpt
+<<<<<<< HEAD
+CALL CENTER DEFINITIVO/Core/bin/Debug/Core.dll
+*.pdb
+CALL CENTER DEFINITIVO/Core/obj/Debug/Core.pdb
+CALL CENTER DEFINITIVO/Core/bin/Debug/Core.dll
+CALL CENTER DEFINITIVO/Core/bin/Debug/Core.pdb
+=======
 CALL CENTER DEFINITIVO/Mantenimiento_Empleados.v12.suo
+<<<<<<< HEAD
 *.dll
 *.vbproj
 CALL CENTER DEFINITIVO/Data/bin/Debug/Data.dll
 *.pdb
 CALL CENTER DEFINITIVO/Data/bin/Debug/Data.dll
+=======
+>>>>>>> 2444c5c2d7b1c28103b4dd2f31751c74767258a6
+>>>>>>> 79a2660572a7d1a83e055bd7b794153e701b0ccd
